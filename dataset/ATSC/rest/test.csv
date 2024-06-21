@@ -1,0 +1,1120 @@
+sentence,aspect,label_id,label
+The bread is top notch as well .,bread,2,positive
+I have to say they have one of the fastest delivery times in the city .,delivery times,2,positive
+Food is always fresh and hot - ready to eat !,Food,2,positive
+Did I mention that the coffee is OUTSTANDING ?,coffee,2,positive
+"Certainly not the best sushi in New York , however , it is always fresh , and the place is very clean , sterile .",place,2,positive
+"I trust the people at Go Sushi , it never disappoints .",people,2,positive
+"Straight-forward , no surprises , very decent Japanese food .",Japanese food,2,positive
+"BEST spicy tuna roll , great asian salad .",asian salad,2,positive
+"BEST spicy tuna roll , great asian salad .",spicy tuna roll,2,positive
+Try the rose roll ( not on menu ) .,rose roll,2,positive
+Try the rose roll ( not on menu ) .,menu,1,neutral
+"I love the drinks , esp lychee martini , and the food is also VERY good .",drinks,2,positive
+"I love the drinks , esp lychee martini , and the food is also VERY good .",lychee martini,2,positive
+"I love the drinks , esp lychee martini , and the food is also VERY good .",food,2,positive
+"In fact , this was not a Nicoise salad and was barely eatable .",Nicoise salad,0,negative
+"While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .",menu,2,positive
+"While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .",drinks,1,neutral
+"While there 's a decent menu , it should n't take ten minutes to get your drinks and 45 for a dessert pizza .",dessert pizza,1,neutral
+"Once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .",food,2,positive
+"Once we sailed , the top-notch food and live entertainment sold us on a unforgettable evening .",live entertainment,2,positive
+Our waiter was horrible ; so rude and disinterested .,waiter,0,negative
+The sangria 's - watered down .,sangria,0,negative
+"menu - uneventful , small .",menu,0,negative
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price .,sushi,2,positive
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price .,portions,2,positive
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable price .,price,2,positive
+Great food but the service was dreadful !,food,2,positive
+Great food but the service was dreadful !,service,0,negative
+The portions of the food that came out were mediocre .,portions of the food,1,neutral
+the two waitress 's looked like they had been sucking on lemons .,waitress 's,0,negative
+"From the beginning , we were met by friendly staff memebers , and the convienent parking at Chelsea Piers made it easy for us to get to the boat .",staff memebers,2,positive
+"From the beginning , we were met by friendly staff memebers , and the convienent parking at Chelsea Piers made it easy for us to get to the boat .",parking,2,positive
+We enjoyed ourselves thoroughly and will be going back for the desserts ...,desserts,2,positive
+Desserts are almost incredible : my personal favorite is their Tart of the Day .,Desserts,2,positive
+Desserts are almost incredible : my personal favorite is their Tart of the Day .,Tart of the Day,2,positive
+"The food was extremely tasty , creatively presented and the wine excellent .",food,2,positive
+"The food was extremely tasty , creatively presented and the wine excellent .",wine,2,positive
+THE LASAGNA WAS PROBABLY THE BEST I HAVE TASTED .,LASAGNA,2,positive
+Harumi Sushi has the freshest and most delicious array of sushi in NYC .,array of sushi,2,positive
+"I highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .",cuisine,2,positive
+"I highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .",owners,2,positive
+"I highly recommend it for not just its superb cuisine , but also for its friendly owners and staff .",staff,2,positive
+"If you 're craving some serious indian food and desire a cozy ambiance , this is quite and exquisite choice .",indian food,2,positive
+"If you 're craving some serious indian food and desire a cozy ambiance , this is quite and exquisite choice .",ambiance,2,positive
+I definitely enjoyed the food as well .,food,2,positive
+"It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .",service,2,positive
+"It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .",garden,2,positive
+"It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .",food,2,positive
+"It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .",appetizers,2,positive
+"It was pleasantly uncrowded , the service was delightful , the garden adorable , the food ( from appetizers to entrees ) was delectable .",entrees,2,positive
+"The food is surprisingly good , and the decor is nice .",food,2,positive
+"The food is surprisingly good , and the decor is nice .",decor,2,positive
+How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners !,lunch,0,negative
+How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and dinners !,dinners,0,negative
+Two wasted steaks -- what a crime !,steaks,0,negative
+The staff should be a bit more friendly .,staff,0,negative
+I think the meatball parm is good .,meatball parm,2,positive
+"If you want good tasting , well seasoned latin food eat at Cabana and you ca n't go wrong .",latin food,2,positive
+Definitely try the taglierini with truffles - it was incredible .,taglierini with truffles,2,positive
+"Also , the staff is very attentive and really personable .",staff,2,positive
+The gnocchi literally melts in your mouth !,gnocchi,2,positive
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,... staff,2,positive
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,; food,2,positive
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,portion size,2,positive
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,portobello/gorgonzola/sausage appetizer,2,positive
+Had a great experience at Trio ... staff was pleasant ; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto .,lobster risotto,2,positive
+"Entrees include classics like lasagna , fettuccine Alfredo and chicken parmigiana .",Entrees,1,neutral
+"Entrees include classics like lasagna , fettuccine Alfredo and chicken parmigiana .",lasagna,1,neutral
+"Entrees include classics like lasagna , fettuccine Alfredo and chicken parmigiana .",", fettuccine Alfredo",1,neutral
+"Entrees include classics like lasagna , fettuccine Alfredo and chicken parmigiana .",chicken parmigiana,1,neutral
+"The food is good , the teriyaki I recommend .",food,2,positive
+"The food is good , the teriyaki I recommend .",teriyaki,2,positive
+Meal was very expensive for what you get .,Meal,0,negative
+Try the Peanut Butter Sorbet and the pizza with soy cheese !,Peanut Butter Sorbet,2,positive
+Try the Peanut Butter Sorbet and the pizza with soy cheese !,pizza with soy cheese,2,positive
+"Good food at the right price , what more can you ask for .",food,2,positive
+"Good food at the right price , what more can you ask for .",price,2,positive
+"The food is top notch , the service is attentive , and the atmosphere is great .",food,2,positive
+"The food is top notch , the service is attentive , and the atmosphere is great .",service,2,positive
+"The food is top notch , the service is attentive , and the atmosphere is great .",atmosphere,2,positive
+"Great food , great waitstaff , great atmosphere , and best of all GREAT beer !",food,2,positive
+"Great food , great waitstaff , great atmosphere , and best of all GREAT beer !",waitstaff,2,positive
+"Great food , great waitstaff , great atmosphere , and best of all GREAT beer !",atmosphere,2,positive
+"Great food , great waitstaff , great atmosphere , and best of all GREAT beer !",beer,2,positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere .,food,2,positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere .,( kimono shrimp special,2,positive
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good ( kimono shrimp special was excellent ) and has a great atmosphere .,atmosphere,2,positive
+The menu is interesting and quite reasonably priced .,menu,2,positive
+The menu is interesting and quite reasonably priced .,priced,2,positive
+The food was delicious and clearly fresh ingredients were used .,food,2,positive
+The food was delicious and clearly fresh ingredients were used .,ingredients,2,positive
+This made it obvious that the food was n't cooked fresh ; it was obviously made before hand and then reheated .,food,0,negative
+Appetizer are excellent here ; you can make a great ( and inexpensive ) meal out of them .,Appetizer,2,positive
+Appetizer are excellent here ; you can make a great ( and inexpensive ) meal out of them .,) meal,2,positive
+The spicy mussels are a highlight .,spicy mussels,2,positive
+Also get the Onion Rings -- best we 've ever had .,Onion Rings,2,positive
+"However , being foodies , we were utterly disappointed with the food .",food,0,negative
+"Huge portions , great and attentive service , and pretty good prices .",portions,2,positive
+"Huge portions , great and attentive service , and pretty good prices .",service,2,positive
+"Huge portions , great and attentive service , and pretty good prices .",prices,2,positive
+I was highly disappointed by their service and food .,service,0,negative
+I was highly disappointed by their service and food .,food,0,negative
+"I complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .",waiter,0,negative
+"I complained to the waiter and then to the manager , but the intensity of rudeness from them just went up .",manager,0,negative
+The food is great and the milkshakes are even better !,food,2,positive
+The food is great and the milkshakes are even better !,milkshakes,2,positive
+the mushroom barley soup is amazing .,mushroom barley soup,2,positive
+"I 'm glad I did as the food was very good and the staff was friendly , courteous and efficient .",food,2,positive
+"I 'm glad I did as the food was very good and the staff was friendly , courteous and efficient .",staff,2,positive
+Their duck here is also absolutely delicious .,duck,2,positive
+"While it was large and a bit noisy , the drinks were fantastic , and the food was superb .",drinks,2,positive
+"While it was large and a bit noisy , the drinks were fantastic , and the food was superb .",food,2,positive
+One caveat : Some of the curried casseroles can be a trifle harsh .,curried casseroles,0,negative
+The food was almost always EXCELLENT .,food,2,positive
+I was pleasently surprised at the taste .,taste,2,positive
+"A nice space , as long as it does n't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers .",seafood,2,positive
+"A nice space , as long as it does n't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for seafood lovers .",cuisine,2,positive
+I never had an orange donut before so I gave it a shot .,orange donut,1,neutral
+"they really provide a relaxing , laid-back atmosphere .",atmosphere,2,positive
+This particular location certainly uses substandard meats .,meats,0,negative
+The Management was less than accomodating .,Management,0,negative
+The ambience is also more laid-back and relaxed .,ambience,2,positive
+the teas are great and all the sweets are homemade .,teas,2,positive
+the teas are great and all the sweets are homemade .,sweets,2,positive
+mojitos and the service are the best part in there,mojitos,2,positive
+mojitos and the service are the best part in there,service,2,positive
+"Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .",Sandwiches,2,positive
+"Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .",", burgers",2,positive
+"Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .",salads,2,positive
+"Sandwiches , burgers and salads , like the lemon-dressed cobb , are classic successes .",lemon-dressed cobb,2,positive
+The design is very intimate and romantic .,design,2,positive
+The food was wonderful and imaginative .,food,2,positive
+The staff is very sharp and they look good too .,staff,2,positive
+The worst though was the taste .,taste,0,negative
+The fajita we tried was tasteless and burned and the mole sauce was way too sweet .,fajita,0,negative
+The fajita we tried was tasteless and burned and the mole sauce was way too sweet .,mole sauce,0,negative
+Stay with the roasted chickens and you 'll be fine .,roasted chickens,2,positive
+"The atmosphere is warm , comfortable , artsy and sexy .",atmosphere,2,positive
+"The food is great ( big selection , reasonable prices ) and the drinks are really good .",food,2,positive
+"The food is great ( big selection , reasonable prices ) and the drinks are really good .",selection,2,positive
+"The food is great ( big selection , reasonable prices ) and the drinks are really good .",prices,2,positive
+"The food is great ( big selection , reasonable prices ) and the drinks are really good .",drinks,2,positive
+The steak melted in my mouth .,steak,2,positive
+"The food did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .",waiters,2,positive
+"The food did take a few extra minutes to come , but the cute waiters ' jokes and friendliness made up for it .",food,1,neutral
+"Most importantly , it is reasonably priced .",priced,2,positive
+"The selection of food is excellent ( I 'm not used to having much choice at restaurants ) , and the atmosphere is great .",selection of food,2,positive
+"The selection of food is excellent ( I 'm not used to having much choice at restaurants ) , and the atmosphere is great .",atmosphere,2,positive
+"Only suggestion is that you skip the dessert , it was overpriced and fell short on taste .",dessert,0,negative
+"Only suggestion is that you skip the dessert , it was overpriced and fell short on taste .",taste,0,negative
+"Food was decent , but not great .",Food,2,positive
+i dont know what some people who rave about this hot dog are talking about .,hot dog,0,negative
+it is a hidden delight complete with a quaint bar and good food .,bar,2,positive
+it is a hidden delight complete with a quaint bar and good food .,food,2,positive
+The waiters ALWAYS look angry and even ignore their high-tipping regulars .,waiters,0,negative
+"the atmosphere is very nice , and a welcome escape from the rest of the SI mall .",atmosphere,2,positive
+"Yes , they 're a bit more expensive then typical , but then again , so is their food .",food,2,positive
+"I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .",wraps,2,positive
+"I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .",", burgers",2,positive
+"I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .",salads,2,positive
+"I can say that the wraps , burgers and salads were all fresh , tasty and the mango margareta at $ 9 was WELL WORTH the money .",mango margareta,2,positive
+"Anywhere else , the prices would be 3x as high !",prices,2,positive
+The service we experienced was friendly and good .,service,2,positive
+Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with .,waiter,2,positive
+Our waiter was friendly and it is a shame that he didnt have a supportive staff to work with .,staff,0,negative
+The folding chair I was seated at was uncomfortable .,folding chair,0,negative
+Service was among the best I have ever had in NYC .,Service,2,positive
+The fettucino alfredo was amazing .,fettucino alfredo,2,positive
+The food was very good and I was pleasantly surprised to see so many vegan options .,food,2,positive
+The food was very good and I was pleasantly surprised to see so many vegan options .,vegan options,2,positive
+I know real Indian food and this was n't it .,Indian food,0,negative
+"Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...",Smoked Trout,2,positive
+"Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...",... Lamb Chops,2,positive
+"Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...",", Veal Chops",2,positive
+"Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...",", Rabbit",2,positive
+"Be sure to try the Smoked Trout ... Lamb Chops , Veal Chops , Rabbit , the potato gratin , on and on and on ...",potato gratin,2,positive
+"Even when the chef is not in the house , the food and service are right on target .",chef,1,neutral
+"Even when the chef is not in the house , the food and service are right on target .",food,2,positive
+"Even when the chef is not in the house , the food and service are right on target .",service,2,positive
+Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .,eggs benedict,2,positive
+Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .,mussels,2,positive
+Everything from the eggs benedict to the mussels and even the hamburger were done well and very tasty .,hamburger,2,positive
+"The waiters were very professional , courteous and attentive .",waiters,2,positive
+The falafal was rather over cooked and dried but the chicken was fine .,falafal,0,negative
+The falafal was rather over cooked and dried but the chicken was fine .,chicken,2,positive
+"I highly reccomend the grand marnier shrimp , it 's insanely good .",grand marnier shrimp,2,positive
+"We been there and we really enjoy the food , was areally great food , and the service was really good .",food,2,positive
+"We been there and we really enjoy the food , was areally great food , and the service was really good .",food,2,positive
+"We been there and we really enjoy the food , was areally great food , and the service was really good .",service,2,positive
+Desserts include flan and sopaipillas .,Desserts,1,neutral
+Desserts include flan and sopaipillas .,flan,1,neutral
+Desserts include flan and sopaipillas .,sopaipillas,1,neutral
+I was starving and the small portions were driving me crazy !,portions,0,negative
+The wait staff was loud and inconsiderate .,wait staff,0,negative
+"However , the food and service and dramatically lacking .",food,0,negative
+"However , the food and service and dramatically lacking .",service,0,negative
+The sushi is cut in blocks bigger than my cell phone .,sushi,0,negative
+"The service is great , my soup always arrives nice and hot .",service,2,positive
+"The service is great , my soup always arrives nice and hot .",soup,2,positive
+It had been awhile and I forgot just how delicious crepes can be .,crepes,2,positive
+Montparnasse 's desserts -- especially the silken creme brulee and paper-thin apple tart -- are good enough on their own to make the restaurant worth the trip .,desserts,2,positive
+Montparnasse 's desserts -- especially the silken creme brulee and paper-thin apple tart -- are good enough on their own to make the restaurant worth the trip .,creme brulee,2,positive
+Montparnasse 's desserts -- especially the silken creme brulee and paper-thin apple tart -- are good enough on their own to make the restaurant worth the trip .,apple tart,2,positive
+i had a delicious shrimp creole .,shrimp creole,2,positive
+The chicken dinner was real good .,chicken dinner,2,positive
+Beware of the chili signed food items not unless you want to call the fire department to douse the flames in your mouth .,chili signed food items,0,negative
+The decor is designed in a contemporary Japanese style restaurant .,decor,1,neutral
+but the food was delicious .,food,2,positive
+"Try the ribs , sizzling beef and couple it with coconut rice .",coconut rice,2,positive
+"Try the ribs , sizzling beef and couple it with coconut rice .",ribs,2,positive
+"Try the ribs , sizzling beef and couple it with coconut rice .",beef,2,positive
+The avocado salad is a personal fave .,avocado salad,2,positive
+"And , the honey BBQ rib tips are yummy !",honey BBQ rib tips,2,positive
+The BEST Chinese food Uptown !,Chinese food,2,positive
+Service is known for bending over backwards to make everyone happy .,Service,2,positive
+The staff is very friendly .,staff,2,positive
+Waiters are very friendly and the pasta is out of this world .,Waiters,2,positive
+Waiters are very friendly and the pasta is out of this world .,pasta,2,positive
+Great wine list and great cocktail menu .,wine list,2,positive
+Great wine list and great cocktail menu .,cocktail menu,2,positive
+The crab cakes are delicious and the BBQ rib was perfect .,crab cakes,2,positive
+The crab cakes are delicious and the BBQ rib was perfect .,BBQ rib,2,positive
+"The food is wonderful , artfully done and simply delicious .",food,2,positive
+Tiny restaurant with very fast service .,service,2,positive
+My husband and I have been there at least 6 times and we 've always been given the highest service and often free desserts .,service,2,positive
+My husband and I have been there at least 6 times and we 've always been given the highest service and often free desserts .,desserts,2,positive
+"A beautiful atmosphere , perfect for drinks and/or appetizers .",atmosphere,2,positive
+"A beautiful atmosphere , perfect for drinks and/or appetizers .",drinks,1,neutral
+"A beautiful atmosphere , perfect for drinks and/or appetizers .",appetizers,1,neutral
+They make the best pizza in New Jersey .,pizza,2,positive
+"What a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .",service,2,positive
+"What a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .",food,2,positive
+"What a difference , the service was very comforting and the food was better than average , but what really standed out was such a dynamic and extensive beer list .",beer list,2,positive
+"Frankly , the chinese food here is something I can make better at home .",chinese food,0,negative
+There was only one waiter for the whole restaurant upstairs .,waiter,1,neutral
+We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate .,scallops,1,neutral
+We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate .,asparagus,1,neutral
+We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate .,soft shell crab,1,neutral
+We started with the scallops and asparagus and also had the soft shell crab as well as the cheese plate .,cheese plate,1,neutral
+"Not to be overlooked , the service is excellent .",service,2,positive
+this without question is one of the worst hotdogs i have ever had .,hotdogs,0,negative
+"The staff is unbelievably friendly , and I dream about their Saag gosht ... so good .",staff,2,positive
+"The staff is unbelievably friendly , and I dream about their Saag gosht ... so good .",Saag gosht,2,positive
+I also recommend the garlic knots .,garlic knots,2,positive
+Best Indian food I have ever eaten .,Indian food,2,positive
+This place has the best pizza .,pizza,2,positive
+The music which is sometimes a little too heavy for my taste .,music,0,negative
+The service is excellent and always informative without an air .,service,2,positive
+The owner and staff go to great lengths to make you feel comfortable .,owner,2,positive
+The owner and staff go to great lengths to make you feel comfortable .,staff,2,positive
+The sushi is always fresh and yummy and the menu is pretty varied .,sushi,2,positive
+The sushi is always fresh and yummy and the menu is pretty varied .,menu,2,positive
+"The food was great - sushi was good , but the cooked food amazed us .",food,2,positive
+"The food was great - sushi was good , but the cooked food amazed us .",- sushi,2,positive
+"The food was great - sushi was good , but the cooked food amazed us .",cooked food,2,positive
+their dinner specials are fantastic .,dinner specials,2,positive
+"Great food , great drinks , nice dining atmosphere .",food,2,positive
+"Great food , great drinks , nice dining atmosphere .",drinks,2,positive
+"Great food , great drinks , nice dining atmosphere .",dining atmosphere,2,positive
+"For the price you pay for the food here , you 'd expect it to be at least on par with other Japanese restaurants .",price,0,negative
+"For the price you pay for the food here , you 'd expect it to be at least on par with other Japanese restaurants .",food,0,negative
+Food portion was SMALL and below average .,Food portion,0,negative
+Sit back in one of those comfortable chairs .,chairs,2,positive
+My favs here are the Tacos Pastor and the Tostada de Tinga ...,Tacos Pastor,2,positive
+My favs here are the Tacos Pastor and the Tostada de Tinga ...,Tostada de Tinga,2,positive
+"The bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .",bartenders,2,positive
+"The bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .",managers,2,positive
+"The bartenders and the managers are really nice and the decor is very comfy and laid-back , all the while being trendy .",decor,2,positive
+"For a savory take on the soup and sandwich meal , try the hot and sour soup .",hot and sour soup,2,positive
+"For a savory take on the soup and sandwich meal , try the hot and sour soup .",soup and sandwich meal,2,positive
+"This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .",drinks,2,positive
+"This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .",atmosphere,2,positive
+"This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .",service,2,positive
+"This bar has it all - great drinks , cool atmosphere , excellent service and delicious food .",food,2,positive
+"Also , the chick peas with shrimp ( appetizer ) is divine .",chick peas with shrimp ( appetizer,2,positive
+"Finally , I got sick of the bad service , obnoxious smirks , and snotty back talk .",service,0,negative
+We ordered lamb which was perfectly cooked and tasted awesome .,lamb,2,positive
+i especially like their soft shell crab sandwich with fries .,soft shell crab sandwich with fries,2,positive
+"if you 're looking for authentic hong kong-style food , look no further .",hong kong-style food,2,positive
+good food good wine that 's it .,food,2,positive
+good food good wine that 's it .,wine,2,positive
+The staff was extremely friendly and pleasant .,staff,2,positive
+"While their kitchen food is delicious , their Sushi is out of this world .",kitchen food,2,positive
+"While their kitchen food is delicious , their Sushi is out of this world .",Sushi,2,positive
+"everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .",service,2,positive
+"everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .",waitresses,2,positive
+"everything is scrumptious , from the excellent service by cute waitresses , to the extremely lush atmosphere .",atmosphere,2,positive
+"It 's traditional , simple italian food .",italian food,2,positive
+"The food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .",food,2,positive
+"The food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .",rolls,2,positive
+"The food is all-around good , with the rolls usually excellent and the sushi/sashimi not quite on the same level .",sushi/sashimi,1,neutral
+( The sashimi is cut a little thinly .,sashimi,0,negative
+Could have had better for 1/3 the price in Chinatown .,price,0,negative
+"In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .",hot dogs,2,positive
+"In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .",breakfast sandwiches,2,positive
+"In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .",tator tots,2,positive
+"In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .",English muffins,2,positive
+"In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .",Taylor ham,2,positive
+"In addition to great hot dogs , DOTP has wonderful breakfast sandwiches that feature , in addition to great things like tator tots and English muffins , a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham .",pork product,2,positive
+"Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .",manager,0,negative
+"Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .",bartender,0,negative
+"Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .",drinks,1,neutral
+"Well , it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for drinks , and then tells us to chill out .",waiting,0,negative
+"Not only is the service great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .",service,2,positive
+"Not only is the service great , but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable .",atmosphere,2,positive
+"When the dish arrived it was blazing with green chillis , definitely not edible by a human .",green chillis,0,negative
+"When the dish arrived it was blazing with green chillis , definitely not edible by a human .",dish,0,negative
+The absolute worst service I 've ever experienced and the food was below average ( when they actually gave people the meals they ordered ) .,service,0,negative
+The absolute worst service I 've ever experienced and the food was below average ( when they actually gave people the meals they ordered ) .,food,0,negative
+The absolute worst service I 've ever experienced and the food was below average ( when they actually gave people the meals they ordered ) .,meals,1,neutral
+It 's about $ 7 for lunch and they have take-out or dine-in .,lunch,1,neutral
+It 's about $ 7 for lunch and they have take-out or dine-in .,take-out,1,neutral
+It 's about $ 7 for lunch and they have take-out or dine-in .,dine-in,1,neutral
+Be sure to accompany your food with one of their fresh juice concoctions .,food,1,neutral
+Be sure to accompany your food with one of their fresh juice concoctions .,fresh juice concoctions,2,positive
+The food is great and the prices are reasonable .,food,2,positive
+The food is great and the prices are reasonable .,prices,2,positive
+"The place is clean , and if you like soul food , then this is the place to be !",place,2,positive
+"The place is clean , and if you like soul food , then this is the place to be !",soul food,2,positive
+I had roast chicken and a salad .,roast chicken,1,neutral
+I had roast chicken and a salad .,salad,1,neutral
+They have a very good chicken with avocado and good tuna as well .,chicken with avocado,2,positive
+They have a very good chicken with avocado and good tuna as well .,tuna,2,positive
+But the meals were terrible .,meals,0,negative
+My chicken was completely dried out and on the cold side and the sauce was not very flavorful .,chicken,0,negative
+My chicken was completely dried out and on the cold side and the sauce was not very flavorful .,sauce,0,negative
+Malted Milk Ball Gelato - have you ever in your life heard of anything so ridiculously wonderful ?,Malted Milk Ball Gelato,2,positive
+Way too much money for such a terrible meal .,meal,0,negative
+"However , the service is absolutely horrible .",service,0,negative
+A con was the slow bar service .,bar service,0,negative
+Dessert was also to die for !,Dessert,2,positive
+"BTW , the service is very good .",service,2,positive
+It 's eaten with black vinegar and shredded ginger .,black vinegar,1,neutral
+It 's eaten with black vinegar and shredded ginger .,shredded ginger,1,neutral
+"The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .",lighting,0,negative
+"The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .",food,0,negative
+"The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .",disco pop duo,0,negative
+"The unattractive lighting made me want to gag , the food was overpriced , there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate .",escargot,0,negative
+it is a cozy place to go with a couple of friends .,place,2,positive
+"The service is always great , and the owner walks around to make sure you enjoy .",service,2,positive
+"The service is always great , and the owner walks around to make sure you enjoy .",owner,2,positive
+because the waiters need SEVERE ATTITUE ADJUSTMENTS .,waiters,0,negative
+the food is delicious and highly recommended .,food,2,positive
+"When it came time to take the order the waiter gave us a hard time , walked away then came back with a paper and pen for us to write down what we wanted ... excuse me but is n't that his job ???",waiter,0,negative
+Dieters stick to salads or indulge in vegetarian platters .,salads,2,positive
+Dieters stick to salads or indulge in vegetarian platters .,vegetarian platters,2,positive
+So for a filling and healthy meal give it a go .,meal,2,positive
+"Since I cook for a living , I 'm very fussy about the food I eat in restaurants .",food,1,neutral
+The service was outstanding .,service,2,positive
+My friends and I stop here for pizza before hitting the Kips Bay movie theater .,pizza,1,neutral
+We always enjoy the pizza .,pizza,2,positive
+The service is pretty good .,service,2,positive
+"Yum , the chicken is great here .",chicken,2,positive
+"The food here was great , a treat from beginning to end .",food,2,positive
+The host ( owner ) and servers are personable and caring .,host ( owner,2,positive
+The host ( owner ) and servers are personable and caring .,servers,2,positive
+"It 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .",food,2,positive
+"It 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .",atmosphere,2,positive
+"It 's just everything ... the food , the atmosphere ... the incrediby kind and gracious hostess .",hostess,2,positive
+The food is very good and the service is great .,food,2,positive
+The food is very good and the service is great .,service,2,positive
+I usually get one the Vietnamese Beef Noodle Soup .,Vietnamese Beef Noodle Soup,1,neutral
+We were wondering why they were there to make our dining experience miserable ?,dining experience,0,negative
+"This place has the best Indian food in New York , hands down .",Indian food,2,positive
+The waiters are very friendly and helpful and if you frequent they will remember you .,waiters,2,positive
+Intimate but charming interior with extremely friendly and attentive service .,interior,2,positive
+Intimate but charming interior with extremely friendly and attentive service .,service,2,positive
+The food was as creative as the decor and both worked .,food,2,positive
+The food was as creative as the decor and both worked .,decor,2,positive
+"The menu is great , with a good selection , and everything that I have tried is absolutely delicious .",menu,2,positive
+"The menu is great , with a good selection , and everything that I have tried is absolutely delicious .",selection,2,positive
+The sauce is zesty and flavorful and the crust is nice and crispy .,sauce,2,positive
+The sauce is zesty and flavorful and the crust is nice and crispy .,crust,2,positive
+This place has the best sushi in the city .,sushi,2,positive
+They have an excellent selection ( the rolls with crab are really great ) .,selection,2,positive
+They have an excellent selection ( the rolls with crab are really great ) .,rolls with crab,2,positive
+"Everyone who works there ( the host , the bartender , the servers ) is so helpful .",host,2,positive
+"Everyone who works there ( the host , the bartender , the servers ) is so helpful .",bartender,2,positive
+"Everyone who works there ( the host , the bartender , the servers ) is so helpful .",servers,2,positive
+And the food is fantastic .,food,2,positive
+Favourites include : potato spinach gnocchi and the lamb .,: potato spinach gnocchi,2,positive
+Favourites include : potato spinach gnocchi and the lamb .,lamb,2,positive
+"Unfortunately , we chose this spot for lunch as we had done a lot of walking and ended up at the South St Seaport .",lunch,1,neutral
+But regulars know that the sandwiches are the real star here .,sandwiches,2,positive
+The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending .,port,2,positive
+The skillfully chosen Portuguese cheese cart paired with quality port provides the perfect Iberian ending .,Portuguese cheese cart,2,positive
+My friend had a burger and I had these wonderful blueberry pancakes .,burger,1,neutral
+My friend had a burger and I had these wonderful blueberry pancakes .,blueberry pancakes,2,positive
+We were so happy with our food and were even more thrilled when we saw the bill .,food,2,positive
+We were so happy with our food and were even more thrilled when we saw the bill .,bill,2,positive
+"All toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .",toppings,2,positive
+"All toppings are so fresh you 'd think they had their own vegetable garden and the crust is so perfect , that one actually thinks of how it was made .",crust,2,positive
+We 've always gotten amazing service and we love the food .,service,2,positive
+We 've always gotten amazing service and we love the food .,food,2,positive
+"The waitstaff is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .",waitstaff,2,positive
+"The waitstaff is solicitous and friendly and always seems glad to see us , and the food is wonderful , if not stunningly creative .",food,2,positive
+I 'm in love with the lobster ravioli !,lobster ravioli,2,positive
+We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our meal .,meal,2,positive
+"Service is excellent , no wait , and you get a lot for the price .",Service,2,positive
+"Service is excellent , no wait , and you get a lot for the price .",price,2,positive
+"Service is excellent , no wait , and you get a lot for the price .",wait,2,positive
+I thought the food is n't cheap at all compared to Chinatown .,food,0,negative
+Coffee is a better deal than overpriced Cosi sandwiches .,Coffee,2,positive
+Coffee is a better deal than overpriced Cosi sandwiches .,Cosi sandwiches,0,negative
+We did n't know if we should order a drink or leave ?,drink,1,neutral
+") It 's not the best Japanese restaurant in the East Village , but it 's a pretty solid one for its modest prices , and worth repeat visits .",prices,2,positive
+The food is so good and so popular that waiting can really be a nightmare .,food,2,positive
+The food is so good and so popular that waiting can really be a nightmare .,waiting,0,negative
+First walking in the place seemed to have great ambience .,place,2,positive
+First walking in the place seemed to have great ambience .,ambience,2,positive
+I went to Kitchenette this weekend for brunch .,brunch,1,neutral
+Even for two very hungry people there is plenty of food left to be taken home ( it reheats really well also ) .,food,2,positive
+"Then they somehow made a dry and burnt crust , around a raw and cold inside .",crust,0,negative
+"It 's just good food , nothing more and that 's all we want !",food,2,positive
+Average cake thats been courted by a LOT of hype .,cake,0,negative
+My wife and I recently visited the bistro for dinner and had a wonderful experience .,dinner,1,neutral
+THE SERVICE IS PERFECT TOO NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT,SERVICE,2,positive
+The $ 72 Delmonico steak had to be sent back because it was not cooked to order .,Delmonico steak,0,negative
+Everytime I go there I ca n't pick anything to eat and not because the menu is filled with great things to eat .,menu,0,negative
+Half a chicken with a mountain of rice and beans for $ 6.25 .,rice,1,neutral
+Half a chicken with a mountain of rice and beans for $ 6.25 .,beans,1,neutral
+Half a chicken with a mountain of rice and beans for $ 6.25 .,chicken,1,neutral
+"The service is really fast and friendly , and the value is great .",service,2,positive
+"The service is really fast and friendly , and the value is great .",value,2,positive
+We were very impressed with the food and value .,food,2,positive
+We were very impressed with the food and value .,value,2,positive
+You must try the garlic soup !,garlic soup,2,positive
+"Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .",falafel,2,positive
+"Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .",", tabouleh",2,positive
+"Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .",", humus",2,positive
+"Casablanca servces delicious falafel , tabouleh , humus and other Mediterranean delights , which are all very inexpensive .",Mediterranean delights,2,positive
+"The pizza 's are made fresh , crispy , and ready to serve .",pizza 's,2,positive
+Staff is accomodating make sure you are satified .,Staff,2,positive
+Chef Waldy 's always measures up .,Chef,2,positive
+Reasonably priced with very fresh sushi .,sushi,2,positive
+Reasonably priced with very fresh sushi .,priced,2,positive
+Go for the Seafood Paella for two .,Seafood Paella for two,2,positive
+All of the apetizers are good and the Sangria is very good .,apetizers,2,positive
+All of the apetizers are good and the Sangria is very good .,Sangria,2,positive
+"The one positive thing I can say is that the service was prompt , we got seated right away and the server was very friendly .",service,2,positive
+"The one positive thing I can say is that the service was prompt , we got seated right away and the server was very friendly .",server,2,positive
+The staff greeted me warmly at the door and I was seated promptly and the food was excellent .,staff,2,positive
+The staff greeted me warmly at the door and I was seated promptly and the food was excellent .,food,2,positive
+Service is usually pretty good .,Service,2,positive
+Host and Hostess was quite rude .,Host,0,negative
+Host and Hostess was quite rude .,Hostess,0,negative
+"the wait staff is very friendly , if your not rude or picky ... our meal at Leon last weekend was great - .",wait staff,2,positive
+"the wait staff is very friendly , if your not rude or picky ... our meal at Leon last weekend was great - .",meal,2,positive
+I recommend any of their salmon dishes ...,salmon dishes,2,positive
+The foie gras was sweet and luscious .,foie gras,2,positive
+"The menu , which changes seasonally , shows both regional and international influences .",menu,1,neutral
+but their mac cheese was YUMMY !,mac cheese,2,positive
+their brunch menu had something for everyone .,brunch menu,2,positive
+jazz singer had a nice voice + she made us all get up to dance to shake some cals to eat some more .,jazz singer,2,positive
+They have very quick service which is great when you do n't have much time .,service,2,positive
+"The food is average : breakfast food , soups , salads , sandwiches , etc. .",food,1,neutral
+"The food is average : breakfast food , soups , salads , sandwiches , etc. .",: breakfast food,1,neutral
+"The food is average : breakfast food , soups , salads , sandwiches , etc. .",", soups",1,neutral
+"The food is average : breakfast food , soups , salads , sandwiches , etc. .",", salads",1,neutral
+"The food is average : breakfast food , soups , salads , sandwiches , etc. .",", sandwiches",1,neutral
+I WAS HIGHLY DISAPPOINTED BY THE FOOD .,FOOD,0,negative
+"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN , THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE .",BANANA PUDDING,0,negative
+"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN , THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE .",CRABCAKES,0,negative
+"THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN , THE CRABCAKES ARE WAY OVER SALTED AND DO N'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE .",MAC AND CHEESE,0,negative
+"The staff is arrogant , the prices are way high for Brooklyn .",staff,0,negative
+"The staff is arrogant , the prices are way high for Brooklyn .",prices,0,negative
+the service is prompt friendly .,service,2,positive
+This is literally a hot spot when it comes to the food .,food,2,positive
+The downstairs bar scene is very cool and chill ...,downstairs bar scene,2,positive
+"The food was definitely good , but when all was said and done , I just could n't justify it for the price ( including 2 drinks , $ 100/person ) ...",food,2,positive
+"The food was definitely good , but when all was said and done , I just could n't justify it for the price ( including 2 drinks , $ 100/person ) ...",price,0,negative
+"The food was definitely good , but when all was said and done , I just could n't justify it for the price ( including 2 drinks , $ 100/person ) ...",drinks,1,neutral
+I 've come here for casual lunches as well as for a friend 's birthday and I always enjoy myself .,casual lunches,1,neutral
+If you are a Tequila fan you will not be disappointed .,Tequila,2,positive
+"Great beer selection too , something like 50 beers .",beer selection,2,positive
+"Great beer selection too , something like 50 beers .",beers,1,neutral
+Not to sound too negative but be wary of the delivary .,delivary,0,negative
+"I found the food to be just as good as its owner , Da Silvano , just much less expensive .",food,2,positive
+"I found the food to be just as good as its owner , Da Silvano , just much less expensive .",owner,2,positive
+They have homemade pastas of all kinds -- I recommend the gnocchi -- yum !,homemade pastas,2,positive
+They have homemade pastas of all kinds -- I recommend the gnocchi -- yum !,gnocchi,2,positive
+"My vegetable risotto was burnt , and infused totally in a burnt flavor .",vegetable risotto,0,negative
+"My vegetable risotto was burnt , and infused totally in a burnt flavor .",flavor,0,negative
+The main draw of this place is the price .,price,2,positive
+How can hope to stay in business with service like this ?,service,0,negative
+"But dinner here is never disappointing , even if the prices are a bit over the top .",dinner,2,positive
+"But dinner here is never disappointing , even if the prices are a bit over the top .",prices,0,negative
+"Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !",", sandwiches",2,positive
+"Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !",", soup",2,positive
+"Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !",", pizza",2,positive
+"Not only did they have amazing , sandwiches , soup , pizza etc , but their homemade sorbets are out of this world !",homemade sorbets,2,positive
+"the homemade Guacamole , the unbelievable entree , and thee most amazing deserts .",homemade Guacamole,2,positive
+"the homemade Guacamole , the unbelievable entree , and thee most amazing deserts .",entree,2,positive
+"the homemade Guacamole , the unbelievable entree , and thee most amazing deserts .",deserts,2,positive
+The sushi is reasonably priced and fresh .,sushi,2,positive
+The sushi is reasonably priced and fresh .,priced,2,positive
+Save room for deserts - they 're to die for .,deserts,2,positive
+Best things to order are from the grill ( Churrasco and Ribs ) .,grill,2,positive
+Best things to order are from the grill ( Churrasco and Ribs ) .,( Churrasco,2,positive
+Best things to order are from the grill ( Churrasco and Ribs ) .,Ribs,2,positive
+The traditional Italian items are great - cheap and served in a cozy setting .,traditional Italian items,2,positive
+The traditional Italian items are great - cheap and served in a cozy setting .,setting,2,positive
+The traditional Italian items are great - cheap and served in a cozy setting .,served,2,positive
+Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy .,iced blended mocha,2,positive
+Whether your choose the iced blended mocha or the hot white mocha you are sure to be extremely happy .,hot white mocha,2,positive
+last Tuesday for a late lunch with a friend .,late lunch,1,neutral
+Another friend had to ask 3 times for parmesan cheese .,parmesan cheese,1,neutral
+"Our waitress had apparently never tried any of the food , and there was no one to recommend any wine .",waitress,0,negative
+"Our waitress had apparently never tried any of the food , and there was no one to recommend any wine .",food,1,neutral
+"Our waitress had apparently never tried any of the food , and there was no one to recommend any wine .",wine,1,neutral
+"The service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .",service,0,negative
+"The service was a bit slow and the portions are a bit small so if you are hungry and in a rush , this is not the place for you .",portions,0,negative
+The unfortunate lady next to us thought she had ordered a salad ( including asking for salad dressing ) and was instead given a quesedilla .,salad,1,neutral
+The unfortunate lady next to us thought she had ordered a salad ( including asking for salad dressing ) and was instead given a quesedilla .,salad dressing,1,neutral
+The unfortunate lady next to us thought she had ordered a salad ( including asking for salad dressing ) and was instead given a quesedilla .,quesedilla,1,neutral
+"El Nidos one of the best restaurants in New York which I 've ever been to , has a great variety of tasty , mouth watering pizza 's .",pizza 's,2,positive
+"The service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .",service,0,negative
+"The service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .",food,0,negative
+"The service was pretty poor all around , the food was well below average relative to the cost , and outside there is a crazy bum who harasses every customer who leaves the place .",cost,0,negative
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit .,food,2,positive
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly staff a visit .,staff,2,positive
+I had to wait for my friend at the bar for a few minutes,bar,1,neutral
+"Chef Vincenzo , always there if you need him , is a real talent and a real Roman .",Chef,2,positive
+"If you 're looking to taste some great Indian food and want good service , definitely visit Curry Leaf .",Indian food,2,positive
+"If you 're looking to taste some great Indian food and want good service , definitely visit Curry Leaf .",service,2,positive
+"You must try Odessa stew or Rabbit stew ; salads-all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",Odessa stew,2,positive
+"You must try Odessa stew or Rabbit stew ; salads-all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",Rabbit stew,2,positive
+"You must try Odessa stew or Rabbit stew ; salads-all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",; salads-all,2,positive
+"You must try Odessa stew or Rabbit stew ; salads-all good ; and kompot is soo refreshing during the hot summer day ( they make it the way my mom does , reminds me of home a lot ) .",kompot,2,positive
+My daughter and I left feeling satisfied ( not stuffed ) and it felt good to know we had a healthy lunch .,lunch,2,positive
+"When she complained , the waitress said , Sorry .",waitress,1,neutral
+The quality of the meat was on par with your local grocery store .,quality of the meat,0,negative
+They specialize in smoothies and fresh juices .,smoothies,2,positive
+They specialize in smoothies and fresh juices .,fresh juices,2,positive
+"I recommend the black roasted codfish , it was the best dish of the evening .",black roasted codfish,2,positive
+"I recommend the black roasted codfish , it was the best dish of the evening .",dish,2,positive
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .,waiter,0,negative
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .,menu,1,neutral
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else .,manager,1,neutral
+"In mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .",taste,0,negative
+"In mi burrito , here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave taste .",chicken,0,negative
+"during busy hrs , i recommend that you make a reservation .",reservation,1,neutral
+I went to Common Stock for brunch and I was so impressed .,brunch,1,neutral
+"now called nikki sushi , sushi is OK .",", sushi",1,neutral
+The food is also outstanding and is served quite quickly .,food,2,positive
+The food is also outstanding and is served quite quickly .,served,2,positive
+"From the erbazzone emiliana to the mostarda on the cheese plate , the dishes at this restaurant are all handled with delicate care .",erbazzone emiliana,2,positive
+"From the erbazzone emiliana to the mostarda on the cheese plate , the dishes at this restaurant are all handled with delicate care .",mostarda on the cheese plate,2,positive
+"From the erbazzone emiliana to the mostarda on the cheese plate , the dishes at this restaurant are all handled with delicate care .",dishes,2,positive
+The food is delicious and the bar has a great vibe .,food,2,positive
+The food is delicious and the bar has a great vibe .,bar,2,positive
+The food is delicious and the bar has a great vibe .,vibe,2,positive
+There 's candlelight and music .,candlelight,1,neutral
+There 's candlelight and music .,music,1,neutral
+Simple healthy unglamorous food cheap .,food,2,positive
+"It was such a fantastic dining experience , that I returned again the same week .",dining experience,2,positive
+"To be fair , the food still is good and the service is quick and attentative even though its usually very busy .",food,2,positive
+"To be fair , the food still is good and the service is quick and attentative even though its usually very busy .",service,2,positive
+The place is absolutely adorable and the food is delicious .,place,2,positive
+The place is absolutely adorable and the food is delicious .,food,2,positive
+I ordered the Chicken Teriyaki and my husband got Garlic Shrimp .,Chicken Teriyaki,1,neutral
+I ordered the Chicken Teriyaki and my husband got Garlic Shrimp .,Garlic Shrimp,1,neutral
+I 've had better Japanese food at a mall food court .,Japanese food,0,negative
+The staff members are extremely friendly and even replaced my drink once when I dropped it outside .,staff members,2,positive
+The staff members are extremely friendly and even replaced my drink once when I dropped it outside .,drink,1,neutral
+Cool atmosphere but such a let down .,atmosphere,2,positive
+"The Sashimi portion are big enough to appease most people , but I did n't like the fact they used artifical lobster meat .",Sashimi portion,2,positive
+"The Sashimi portion are big enough to appease most people , but I did n't like the fact they used artifical lobster meat .",artifical lobster meat,0,negative
+They have wheat crusted pizza made with really fresh and yummy ingredients .,wheat crusted pizza,2,positive
+They have wheat crusted pizza made with really fresh and yummy ingredients .,ingredients,2,positive
+"Had a lovely dinner in this dedicated seafood joint , food was well-prepared and - presented and the service was pleasant and prompt .",dinner,2,positive
+"Had a lovely dinner in this dedicated seafood joint , food was well-prepared and - presented and the service was pleasant and prompt .",", food",2,positive
+"Had a lovely dinner in this dedicated seafood joint , food was well-prepared and - presented and the service was pleasant and prompt .",service,2,positive
+"the icing MADE this cake , it was fluffy , not ultra sweet , creamy and light .",cake,2,positive
+"Finally let into the store 5 at a time , to buy expensive slices from a harried staff .",staff,0,negative
+"Finally let into the store 5 at a time , to buy expensive slices from a harried staff .",slices,0,negative
+We ended up having to just leave because we were essentially being ignored by the wait staff -- even though the rest of the restaurant was largely empty .,wait staff,0,negative
+"The wine list is extensive , well priced and covers alot of regions .",wine list,2,positive
+"The wine list is extensive , well priced and covers alot of regions .",priced,2,positive
+Go here if you want fresh and tasty salads of any type you can imagine .,salads,2,positive
+Everything about this place is adorable - even the bathroom !,bathroom,2,positive
+"Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .",delivers,2,positive
+"Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .",food,2,positive
+"Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .",prices,2,positive
+"Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .",service,2,positive
+"Speedy delivers , great food , decent prices , and friendly service combine to ensure an enjoyable repast .",repast,2,positive
+THEY HAVE WAITERS ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS .,WAITERS,1,neutral
+IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC ITALIAN MEAL .,ITALIAN MEAL,1,neutral
+It took 100 years for Parisi to get around to making pizza ( at least I do n't think they ever made it before this year ) ... but it was worth the wait .,pizza,2,positive
+I asked for a simple medium rare steak .,steak,1,neutral
+"Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .",", organic grilled burgers",2,positive
+"Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .",dish,2,positive
+"Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .",Jerusalem market-style falafel wraps,2,positive
+"Generously garnished , organic grilled burgers are the most popular dish , but the Jerusalem market-style falafel wraps and Mediterranean salads -- layered with beets , goat cheese and walnuts -- are equally scrumptious .","Mediterranean salads -- layered with beets , goat cheese and walnuts",2,positive
+"Probably my worst dining experience in new york , and I 'm a former waiter so I know what I 'm talking about .",dining experience,0,negative
+"Probably my worst dining experience in new york , and I 'm a former waiter so I know what I 'm talking about .",waiter,1,neutral
+"Result ( red velvet ) : Great texture , soft and velvety , nice hint of cocoa .",texture,2,positive
+"Result ( red velvet ) : Great texture , soft and velvety , nice hint of cocoa .",hint of cocoa,2,positive
+Ask for the round corner table next to the large window .,round corner table next to the large window,2,positive
+"Their twist on pizza is heatlhy , but full of flavor .",flavor,2,positive
+"Their twist on pizza is heatlhy , but full of flavor .",twist on pizza,2,positive
+The lack of AC and the fact that there are a million swarming bodies ( although everyone is polite and no one is pushing ) is a slight turn off .,AC,0,negative
+"I love the Little Pie Company as much as anyone else who has written reviews , but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people .",service,0,negative
+"I love the Little Pie Company as much as anyone else who has written reviews , but must discourage anyone from visiting the Grand Central location due to their RUDE service from two sales people .",sales people,0,negative
+"Unfortunately , unless you live in the neighborhood , it 's not in a convenient location but is more like a hidden treasure .",location,0,negative
+Did n't seem like any effort was made to the display and quality of the food .,display and quality of the food,0,negative
+The food -- though mostly deep-fried -- is simple and satisfying .,food,2,positive
+"Glechik might be way too tiny for a restaurant by Russian standards , but it is cozy and the food is simply GREAT .",food,2,positive
+The food was excellent - authentic Italian cuisine made absolutely fresh .,food,2,positive
+The food was excellent - authentic Italian cuisine made absolutely fresh .,Italian cuisine,2,positive
+At night the atmoshere changes turning into this hidden jewel that is waiting to be discovered .,atmoshere,2,positive
+"The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .",booth by the windows,1,neutral
+"The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .",place,2,positive
+"The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .",food,2,positive
+"The other times I 've gone it 's romantic date heaven , you can walk in get a booth by the windows , be treated like a VIP in a not-crowded place , with great food and service .",service,2,positive
+I would only go for the coffee which is way better than Starbucks or the like .,coffee,2,positive
+Somewhat disappointing wine list ( only new vintages .,wine list,0,negative
+Somewhat disappointing wine list ( only new vintages .,vintages,0,negative
+If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$ $ this is the place to be !!,priced,0,negative
+If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$ $ this is the place to be !!,food,0,negative
+If your looking for nasty high priced food with a dash of ghetto scenery cheap BX A$ $ this is the place to be !!,scenery,0,negative
+new hamburger with special sauce is ok - at least better than big mac !,new hamburger with special sauce,2,positive
+new hamburger with special sauce is ok - at least better than big mac !,big mac,0,negative
+"Perfectly al dente pasta , not drowned in sauce -- generous portions .",pasta,2,positive
+"Perfectly al dente pasta , not drowned in sauce -- generous portions .",sauce,1,neutral
+"Perfectly al dente pasta , not drowned in sauce -- generous portions .",portions,2,positive
+"I can understand the prices if it served better food , like some Chinese restaurants in midtown/uptown area .",prices,0,negative
+"I can understand the prices if it served better food , like some Chinese restaurants in midtown/uptown area .",food,0,negative
+Service was awful - mostly because staff were overwhelmed on a Saturday night .,Service,0,negative
+Service was awful - mostly because staff were overwhelmed on a Saturday night .,staff,0,negative
+"To the owners ; good job guys , this place is a keeper !",owners,2,positive
+and the owner is simply lovely and friendly .,owner,2,positive
+This little place is wonderfully warm welcoming .,place,2,positive
+perfect for a quick meal .,meal,2,positive
+Has the warmth of a family local yet it is a great place to watch sporting events .,place,2,positive
+"The service was great , and they have a whole great deal for birthdays .",service,2,positive
+The staff is 100 % Italian and the food is as authentic as it gets .,staff,2,positive
+The staff is 100 % Italian and the food is as authentic as it gets .,food,2,positive
+My only complaint might be the fortune cookies - I 've never had a cookie predict bad luck for me before I visited Kar .,fortune cookies,0,negative
+My only complaint might be the fortune cookies - I 've never had a cookie predict bad luck for me before I visited Kar .,cookie,0,negative
+Good for a quick sushi lunch .,sushi lunch,2,positive
+Have a mojito and sit in the back patio .,mojito,2,positive
+Have a mojito and sit in the back patio .,back patio,2,positive
+The service was dreadfully slow ( the place was only half full ) and a smile would have been nice ...,service,0,negative
+I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .,meal,2,positive
+I went this past Saturday and had a excellent meal of consisting of a braised lamb shank with mashed potatoes .,braised lamb shank with mashed potatoes,2,positive
+The waitress came by to pick up the soy sauce WHILE we were eating our lunch !!!!!,waitress,0,negative
+The waitress came by to pick up the soy sauce WHILE we were eating our lunch !!!!!,soy sauce,1,neutral
+The waitress came by to pick up the soy sauce WHILE we were eating our lunch !!!!!,lunch,1,neutral
+"So we sat at the bar , the bartender did n't seem like he wanted to be there .",bar,1,neutral
+"So we sat at the bar , the bartender did n't seem like he wanted to be there .",bartender,0,negative
+"I reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .",fried pork dumplings,2,positive
+"I reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .",orange chicken/beef,2,positive
+"I reccomend the fried pork dumplings , the orange chicken/beef , and the fried rice .",fried rice,2,positive
+You will not be dissapointed by any of the choices in the menu .,menu,2,positive
+The french fries -- with the kalmata dip were terrific !,french fries -- with the kalmata dip,2,positive
+"Would you ever believe that when you complain about over an hour wait , when they tell you it will be 20-30 minutes , the manager tells the bartender to spill the drinks you just paid for ?",wait,0,negative
+"Would you ever believe that when you complain about over an hour wait , when they tell you it will be 20-30 minutes , the manager tells the bartender to spill the drinks you just paid for ?",manager,0,negative
+"Would you ever believe that when you complain about over an hour wait , when they tell you it will be 20-30 minutes , the manager tells the bartender to spill the drinks you just paid for ?",bartender,1,neutral
+"Would you ever believe that when you complain about over an hour wait , when they tell you it will be 20-30 minutes , the manager tells the bartender to spill the drinks you just paid for ?",drinks,1,neutral
+The boutique selection of wines covers a wide variety without being imposeing .,boutique selection of wines,1,neutral
+They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare .,assortment of wraps,2,positive
+They also have a great assortment of wraps if your not in the mood for traditional Mediterranean fare .,traditional Mediterranean fare,1,neutral
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",Fresh veggies,2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",middle eastern spreads,2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", cheese",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",falafel,2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", soup",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", fish",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", rice",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", root vegetables",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",rice medley,2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",spinach thing,2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", lamb kebabs",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",", cheese baclava",2,positive
+"Fresh veggies , all sorts of middle eastern spreads , cheese and falafel , soup , fish , rice , root vegetables , a rice medley , some spinach thing , lamb kebabs , cheese baclava ... soooo much fooood , and all of it delicious .",fooood,2,positive
+"Disappointingly , their wonderful Saketini has been taken off the bar menu .",Saketini,2,positive
+"Disappointingly , their wonderful Saketini has been taken off the bar menu .",bar menu,0,negative
+In Short The Black Sheep distinguishes itself from the Midtown pub herd with a look that 's a mix of sports-bar butch and ornate kitsch .,look,0,negative
+I would definitely go back -- if only for some of those exotic martinis on the blackboard .,martinis,2,positive
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people .,chairs,1,neutral
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people .,table,1,neutral
+"The happy hour is so cheap , but that does not reflect the service or the atmosphere .",happy hour,2,positive
+"The happy hour is so cheap , but that does not reflect the service or the atmosphere .",service,2,positive
+"The happy hour is so cheap , but that does not reflect the service or the atmosphere .",atmosphere,2,positive
+"After waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .",waiter,0,negative
+"After waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .",kitchen,1,neutral
+"After waiting for almost an hour , the waiter brusquely told us he 'd forgotten to give the kitchen our order .",waiting,0,negative
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere .,quaility,2,positive
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and atmosphere .,atmosphere,2,positive
+"A mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .",space,0,negative
+"A mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .",prices,2,positive
+"A mix of students and area residents crowd into this narrow , barely there space for its quick , tasty treats at dirt-cheap prices .",treats,2,positive
+"Give it a try , menu is typical French but varied .",", menu",1,neutral
+It gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice .,seats,2,positive
+"but for the value , it was a great affordable spot to enjoy a fun night out with small group .",value,2,positive
+the negative reviews on city search are probably from jealous competing restaurants who realize they ca n't compete with Temple 's entire positive attitude about the proper way to treat their customers and deliver top quality food .,food,2,positive
+the negative reviews on city search are probably from jealous competing restaurants who realize they ca n't compete with Temple 's entire positive attitude about the proper way to treat their customers and deliver top quality food .,attitude,2,positive
+We ordered a glass of wine and were finished eating and paying before the wine came .,glass of wine,1,neutral
+"It was good , but none of the flavors WOW .",flavors,1,neutral
+"Overall , this is a nice place to take a few friends to hang out at and the service is excellent .",place,2,positive
+"Overall , this is a nice place to take a few friends to hang out at and the service is excellent .",service,2,positive
+Food is excellent quality for a good restaurant price .,Food,2,positive
+Food is excellent quality for a good restaurant price .,price,2,positive
+"for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and dessert .",burrito,2,positive
+"for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and dessert .",tacos,2,positive
+"for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and dessert .",") , margarita",1,neutral
+"for about eleven bucks you get a gigantic burrito ( or tacos ) , margarita , and dessert .",dessert,1,neutral
+The space is traditional in feel .,space,1,neutral
+"the restaurant was completely empty , but she gave me a dirty look and asked , no reservations ?",reservations,1,neutral
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,food,0,negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,interior,0,negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,owners,0,negative
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining .,dining,1,neutral
+"Good service , great food , good value , and never have to wait in line !",service,2,positive
+"Good service , great food , good value , and never have to wait in line !",food,2,positive
+"Good service , great food , good value , and never have to wait in line !",value,2,positive
+"Good service , great food , good value , and never have to wait in line !",wait,2,positive
+Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast .,Egg McMuffin sandwich,1,neutral
+Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast .,hot cakes,1,neutral
+Offerings like hot cakes and the Egg McMuffin sandwich are available for breakfast .,breakfast,1,neutral
+"I have been going to this restaurant for years , in the past the service was average and the food inconsistant .",service,1,neutral
+"I have been going to this restaurant for years , in the past the service was average and the food inconsistant .",food,0,negative
+"The music was fascinating , but left room for conversation , and the bartender made superb drinks .",music,2,positive
+"The music was fascinating , but left room for conversation , and the bartender made superb drinks .",bartender,2,positive
+"The music was fascinating , but left room for conversation , and the bartender made superb drinks .",drinks,2,positive
+rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !,rice dishes,2,positive
+rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !,noodle dishes,2,positive
+rice dishes and noodle dishes rarely exceed $ 5 and add on a refreshing ice drink for $ 2 and you 're set for the night !,ice drink,2,positive
+Cuisine is billed as asian fusion - does n't meet the bill .,Cuisine,0,negative
+Cuisine is billed as asian fusion - does n't meet the bill .,bill,0,negative
+Cuisine is billed as asian fusion - does n't meet the bill .,asian fusion,1,neutral
+Cuisine is billed as asian fusion - does n't meet the bill .,billed,0,negative
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .,dishes,2,positive
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .,king crab salad with passion fruit vinaigrette,2,positive
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .,fettuccine with grilled seafood in a rosemary-orange sauce,2,positive
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu .,bistro menu,1,neutral
+"Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .",Dishes,2,positive
+"Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .",`` Roy 's Classics,2,positive
+"Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .",menu,1,neutral
+"Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .",recipes,2,positive
+"Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .",macadamia-crusted mahi mahi,2,positive
+"Dishes denoted as `` Roy 's Classics '' ( marked on the menu with asterisks ) are tried-and-true recipes , such as macadamia-crusted mahi mahi , or subtly sweet honey-mustard beef short ribs .",sweet honey-mustard beef short ribs,2,positive
+"The cold sesame noodles , which are a freebie when you order $ 10 + , are delectable .",cold sesame noodles,2,positive
+"I came to fresh expecting a great meal , and all I got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .",food,0,negative
+"I came to fresh expecting a great meal , and all I got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .",meal,0,negative
+"I came to fresh expecting a great meal , and all I got was marginally so-so food served in a restaurant that was just so freezing we could n't enjoy eating .",served,1,neutral
+The lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $ 2.99 / lb at the store .,argentine chorizo appetizer,0,negative
+The lone argentine chorizo appetizer at $ 8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $ 2.99 / lb at the store .,fennel flavored Italian sausage,0,negative
+"I went to Swiftys with some friends of the family and we had a very nice dinner , but nothing amazing .",dinner,2,positive
+"Best Chinese on the Upper East , prompt delivery , good value .",delivery,2,positive
+"Best Chinese on the Upper East , prompt delivery , good value .",value,2,positive
+Most of the sandwiches are made with soy mayonaise which is actually pretty good .,sandwiches,2,positive
+Most of the sandwiches are made with soy mayonaise which is actually pretty good .,soy mayonaise,2,positive
+i went in one day asking for a table for a group and was greeted by a very rude hostess .,hostess,0,negative
+i went in one day asking for a table for a group and was greeted by a very rude hostess .,table,1,neutral
+It 's worthwhile to take a cab to Chelsea just for an awesome dinner at My Chelsea .,dinner,2,positive
+"Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .",food,2,positive
+"Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .",staff,2,positive
+"Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .",food,2,positive
+"Not only is the food authentic , but the staff here are practically off-the-boat , they are young and hip and know what they are doing when it comes to food and wine .",wine,2,positive
+"It has good music , nice tapas , an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele .",music,2,positive
+"It has good music , nice tapas , an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele .",tapas,2,positive
+"It has good music , nice tapas , an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele .",selection of wines ( primarily Spanish,2,positive
+"It has good music , nice tapas , an interesting selection of wines ( primarily Spanish ) and a lowkey hip neighborhood clientele .",clientele,2,positive
+"The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .",food,2,positive
+"The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .",dumplings,2,positive
+"The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .",", cold sesame noodles",2,positive
+"The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .",", chicken",2,positive
+"The food is great , I love their dumplings , cold sesame noodles , chicken and shrimp dishs .",shrimp dishs,2,positive
+"And the food , well the food will keep you coming back .",food,2,positive
+"And the food , well the food will keep you coming back .",food,2,positive
+Waiting three hours before getting our entrees was a treat as well .,entrees,1,neutral
+Waiting three hours before getting our entrees was a treat as well .,Waiting,0,negative
+It 's the conversations that make this a fun place to be .,place,2,positive
+"My gf 's duck confitte was very solid as well , although i have little base of reference .",duck confitte,2,positive
+"The wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .",wine list,2,positive
+"The wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .",tapas,2,positive
+"The wine list was superb , our tapas delightful , and the quiet atmosphere perfect for good conversation .",atmosphere,2,positive
+You can eat gourmet food at a fast food price .,price,2,positive
+You can eat gourmet food at a fast food price .,food,2,positive
+"I 've eaten at all three locations and I always love , love the food , the service is always wonderful and the prices are really reasonable .",food,2,positive
+"I 've eaten at all three locations and I always love , love the food , the service is always wonderful and the prices are really reasonable .",service,2,positive
+"I 've eaten at all three locations and I always love , love the food , the service is always wonderful and the prices are really reasonable .",prices,2,positive
+"Not because I was pregnant , but the food here is always delicious .",food,2,positive
+Had a great meal there this weekend before heading to the movies !,meal,2,positive
+We had a birthday party here recently and the food and service was amazing .,food,2,positive
+We had a birthday party here recently and the food and service was amazing .,service,2,positive
+"the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .",dinner menu,2,positive
+"the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .",entrees,2,positive
+"the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .",seafood,2,positive
+"the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .",steaks,2,positive
+"the dinner menu offers a variety of great entrees , including fresh seafood and huge steaks , there 's also a couple of non-meat alternatives .",non-meat alternatives,1,neutral
+This place has the strangest menu and the restaurants tries too hard to make fancy food .,menu,0,negative
+This place has the strangest menu and the restaurants tries too hard to make fancy food .,food,0,negative
+"The appetizers are ok , but the service is slow .",appetizers,1,neutral
+"The appetizers are ok , but the service is slow .",service,0,negative
+the food - not worth the price .,food,0,negative
+the food - not worth the price .,price,0,negative
+"What can you say about a place where the waitress brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .",waitress,0,negative
+"What can you say about a place where the waitress brings out the wrong entree , then verbally assaults your 80 year old grandmother and gives her lip about sending it back ( which she did politely , by the way ) .",entree,1,neutral
+The prices are not terrible .,prices,2,positive
+15 % gratuity automatically added to the bill .,bill,0,negative
+15 % gratuity automatically added to the bill .,% gratuity,0,negative
+"The halibut cheek appetizer came with a generous portion of foie gras , but that 's about the only positive thing I can say about the meal .",halibut cheek appetizer,1,neutral
+"The halibut cheek appetizer came with a generous portion of foie gras , but that 's about the only positive thing I can say about the meal .",portion of foie gras,2,positive
+Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .,Food,2,positive
+Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .,empenadas,2,positive
+Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .,plaintains,2,positive
+Food is excellent and they also have empenadas and plaintains which are good for an afternoon snack .,afternoon snack,2,positive
+Both a number of the appetizer and pasta specials were amazing .,pasta specials,2,positive
+Both a number of the appetizer and pasta specials were amazing .,appetizer,2,positive
+"All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .",Big Mac,2,positive
+"All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .",", Chicken McNuggets",2,positive
+"All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .",", Filet-O-Fish sandwich",2,positive
+"All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .",McDonald 's famous french fries,2,positive
+"All-time favorites include the Big Mac , Chicken McNuggets , Filet-O-Fish sandwich and McDonald 's famous french fries ; lighter options like entree-sized salads are also available .",entree-sized salads,1,neutral
+"It 's a basic pizza joint , not much to look at , but the pizza is what I go for .",pizza,2,positive
+"Tables are close , so you better be comfortable bumping elbows with other patrons .",Tables,0,negative
+Was her Monday for lunch - was working on a film in the area - and found this rare jewel .,lunch,1,neutral
+"Not too much so , but enough that there 's a great scene .",scene,2,positive
+Dug the blue bar area too .,blue bar area,2,positive
+"I got the opportunity to dine at your establishment again a few weeks ago , I was in your upstrairs dining area .",upstrairs dining area,1,neutral
+"Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .",veggie burger,2,positive
+"Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .",chickpeas,2,positive
+"Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .",", carrots",2,positive
+"Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .",vegetables,2,positive
+"Meat-phobes are in luck with the extraordinary veggie burger , made from a distinctive blend of chickpeas , carrots and other vegetables and spices .",spices,2,positive
+"At peak times , the restaurant is overcrowded and tables are uncomfortably close .",tables,0,negative
+The service was on point - what else you would expect from a Ritz ?,service,2,positive
+"Menus feature seasonal picks , like sweet corn-foie gras brulee .",Menus,1,neutral
+"Menus feature seasonal picks , like sweet corn-foie gras brulee .",sweet corn-foie gras brulee,1,neutral
+"Innovations are just as assured , from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .",Carinthia cheese ravioli with wild mushrooms,2,positive
+"Innovations are just as assured , from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .",caviar-topped sturgeon,2,positive
+"Innovations are just as assured , from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon , beautifully matched with a bright green spinach-vodka sauce .",green spinach-vodka sauce,2,positive
+"And these are not small , wimpy fast food type burgers - these are real , full sized patties .",burgers,2,positive
+"And these are not small , wimpy fast food type burgers - these are real , full sized patties .",patties,2,positive
+"There restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .",lunch,1,neutral
+"There restaurant is very casual , but perfect for lunch , and their delivery service is always very fast .",delivery service,2,positive
+Chinatown definitely has better quality with cheaper prices .,quality,2,positive
+Chinatown definitely has better quality with cheaper prices .,prices,2,positive
+I had to flag down a third staff person for a fork ... so now it 's goodbye Little RUDE Pie Company .,staff person,1,neutral
+I had to flag down a third staff person for a fork ... so now it 's goodbye Little RUDE Pie Company .,fork,1,neutral
+"Go with the specials , and stay away from the salmon .",specials,2,positive
+"Go with the specials , and stay away from the salmon .",salmon,0,negative
+The pastas were pretty good .,pastas,2,positive
+Atmosphere is a bore .,Atmosphere,0,negative
+The decor is what initially got me in the door .,decor,2,positive
+The wait staff was very attentive and polite .,wait staff,2,positive
+"Great restaurant , and even greater food !",food,2,positive
+The dishes are remarkably tasty and such a cozy and intimate place !,dishes,2,positive
+The dishes are remarkably tasty and such a cozy and intimate place !,place,2,positive
+Save room for the desserts ! ; - ),desserts,2,positive
+"I love the simplicity and respect which was given to the food , as well the staff was freindly and knowledgable .",food,2,positive
+"I love the simplicity and respect which was given to the food , as well the staff was freindly and knowledgable .",staff,2,positive
+Service was good and so was the atmosphere .,Service,2,positive
+Service was good and so was the atmosphere .,atmosphere,2,positive
+MY date and I both ordered the Branzini and both felt the fish was very average .,Branzini,1,neutral
+MY date and I both ordered the Branzini and both felt the fish was very average .,fish,0,negative
+"The food was good , the service prompt , and the price very reasonable .",food,2,positive
+"The food was good , the service prompt , and the price very reasonable .",service,2,positive
+"The food was good , the service prompt , and the price very reasonable .",price,2,positive
+"Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !",menu,2,positive
+"Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !",ambiance,2,positive
+"Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !",service,2,positive
+"Wonderful menu , warm inviting ambiance , great service the FOOD keeps me coming back !",FOOD,2,positive
+"Great food , good wine and an excellent host .",food,2,positive
+"Great food , good wine and an excellent host .",wine,2,positive
+"Great food , good wine and an excellent host .",host,2,positive
+Pizzas were excellent in addition to appetizers and main courses .,Pizzas,2,positive
+Pizzas were excellent in addition to appetizers and main courses .,appetizers,2,positive
+Pizzas were excellent in addition to appetizers and main courses .,main courses,2,positive
+"Definitely try the calamari , any pasta , or even the Sliced steak entree .",calamari,2,positive
+"Definitely try the calamari , any pasta , or even the Sliced steak entree .",pasta,2,positive
+"Definitely try the calamari , any pasta , or even the Sliced steak entree .",Sliced steak entree,2,positive
+The caeser salad was great .,caeser salad,2,positive
+The fried calamari was even better !,fried calamari,2,positive
+The food was good overall .,food,2,positive
+The food was outstanding and the service was tops .,food,2,positive
+The food was outstanding and the service was tops .,service,2,positive
+The portions are very large and the service is fantastic !!,portions,2,positive
+The portions are very large and the service is fantastic !!,service,2,positive
+I recomend the chicken milanese .,chicken milanese,2,positive
+"excellent tapas at great prices , romantic , small but not overly crowed , excellent",tapas,2,positive
+"excellent tapas at great prices , romantic , small but not overly crowed , excellent",prices,2,positive
+"The chocolate raspberry cake is heavenly - not too sweet , but full of flavor .",chocolate raspberry cake,2,positive
+"The chocolate raspberry cake is heavenly - not too sweet , but full of flavor .",flavor,2,positive
+"Our waiter was helpful and charming , the food was perfect , and the wine was good , too .",waiter,2,positive
+"Our waiter was helpful and charming , the food was perfect , and the wine was good , too .",food,2,positive
+"Our waiter was helpful and charming , the food was perfect , and the wine was good , too .",wine,2,positive
+I HAVE NEVER HAD A BAD MEAL ( OR BAD SERVICE ) @ PIGALLE .,MEAL,2,positive
+I HAVE NEVER HAD A BAD MEAL ( OR BAD SERVICE ) @ PIGALLE .,SERVICE,2,positive
+Best hot dogs in the tri-state area .,hot dogs,2,positive
+The service was very attentive and very generous .,service,2,positive
+"We had tons of great food , wine , and desserts .",food,2,positive
+"We had tons of great food , wine , and desserts .",", wine",2,positive
+"We had tons of great food , wine , and desserts .",desserts,2,positive
+Really Lovely dining experience in the midst of buzzing midtown area .,dining experience,2,positive
+The food really is n't very good and the service is terrible .,food,0,negative
+The food really is n't very good and the service is terrible .,service,0,negative
+"Not only do they have the best escargot in town , they always try to accomodate our toddler .",escargot,2,positive
+"Between my guest and I , we sampled at least 80 % of the menu , and they were all hits .",menu,2,positive
+The Deco and ambiance was really romantic .,Deco,2,positive
+The Deco and ambiance was really romantic .,ambiance,2,positive
+Just go in and sample the greatest french food west of Daniel .,french food,2,positive
+"For someone who used to hate Indian food , Baluchi 's has changed my mid .",Indian food,2,positive
+"Finally a curry that I can eat , enjoy and not suffer from gastritis from 3 hours later .",curry,2,positive
+"All are GREAT - poori , naan , paratha all FRESH .",- poori,2,positive
+"All are GREAT - poori , naan , paratha all FRESH .",", naan",2,positive
+"All are GREAT - poori , naan , paratha all FRESH .",", paratha",2,positive
+Try the homemade breads .,homemade breads,2,positive
+"This place has beautiful sushi , and it 's delicious CHEAP .",sushi,2,positive
+It also has lots of other Korean dishes that are affordable and just as yummy .,Korean dishes,2,positive
+I went for restaurant week and ordered off the prix fixe menu,prix fixe menu,1,neutral
+"Not only was the waiter efficient and courteous , but also extremely helpful .",waiter,2,positive
+"This place is classy , chic , the service is warm and hospitable , and the food is outstanding .",place,2,positive
+"This place is classy , chic , the service is warm and hospitable , and the food is outstanding .",service,2,positive
+"This place is classy , chic , the service is warm and hospitable , and the food is outstanding .",food,2,positive
+"Great burgers , grilled cheeses and french fries .",burgers,2,positive
+"Great burgers , grilled cheeses and french fries .",", grilled cheeses",2,positive
+"Great burgers , grilled cheeses and french fries .",french fries,2,positive
+The Yellowfin Tuna and Calf 's liver are my favorites !,Yellowfin Tuna,2,positive
+The Yellowfin Tuna and Calf 's liver are my favorites !,Calf 's liver,2,positive
+Sushi so fresh that it crunches in your mouth .,Sushi,2,positive
+But make sure you have enough room on your credit card as the bill will leave a big dent in your wallet .,bill,0,negative
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak ( I tried them ALL ) .,steak,1,neutral
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak ( I tried them ALL ) .,choices of sauces,2,positive
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak ( I tried them ALL ) .,sauce cart,1,neutral
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your steak ( I tried them ALL ) .,table,1,neutral
+"Not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !",sushi,2,positive
+"Not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !",duck,2,positive
+"Not only was the sushi fresh , they also served other entrees allowed each guest something to choose from and we all left happy ( try the duck !",entrees,1,neutral
+good variety but nothing surprising .,variety,2,positive
+"After I paid for my purchase , I noticed they had not given me utensils so I could eat my pie .",utensils,1,neutral
+"After I paid for my purchase , I noticed they had not given me utensils so I could eat my pie .",pie,1,neutral
+Likewise if you like really thin crust or really big slices then Nick and Joe 's may not be your favorite .,thin crust,0,negative
+Likewise if you like really thin crust or really big slices then Nick and Joe 's may not be your favorite .,slices,0,negative
+"No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .",green beans,1,neutral
+"No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .",egg,1,neutral
+"No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .",anchovy dressing,1,neutral
+"No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .",nicoise olives,1,neutral
+"No green beans , no egg , no anchovy dressing , no nicoise olives , no red onion .",red onion,1,neutral
+"Build a meal with side orders like Amazin ' Greens salads , Buffalo Chicken Kickers and Cinna Stix .",meal,1,neutral
+"Build a meal with side orders like Amazin ' Greens salads , Buffalo Chicken Kickers and Cinna Stix .",Amazin ' Greens salads,1,neutral
+"Build a meal with side orders like Amazin ' Greens salads , Buffalo Chicken Kickers and Cinna Stix .",", Buffalo Chicken Kickers",1,neutral
+"Build a meal with side orders like Amazin ' Greens salads , Buffalo Chicken Kickers and Cinna Stix .",Cinna Stix,1,neutral
+"Build a meal with side orders like Amazin ' Greens salads , Buffalo Chicken Kickers and Cinna Stix .",side orders,1,neutral
+"Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .",fries,1,neutral
+"Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .",", meaty chili",1,neutral
+"Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .",stuffed baked potatoes,1,neutral
+"Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .",menu,1,neutral
+"Thick fries , meaty chili and stuffed baked potatoes round out a menu that includes a cool , ultra-thick chocolate Frosty .",chocolate Frosty,2,positive
+I always find myself asking the waiter to make something bland and different than what is on the menu .,waiter,1,neutral
+I always find myself asking the waiter to make something bland and different than what is on the menu .,menu,1,neutral
+"Good cake BUT : it was not the best cake i 've ever had , and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees .",cake,0,negative
+"Good cake BUT : it was not the best cake i 've ever had , and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees .",employees,0,negative
+"The closest that I got was the Cherry Marscapone , but they were out of it that day .",Cherry Marscapone,1,neutral
+"The homage to India is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .",roti canai appetizer,2,positive
+"The homage to India is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .",mango chicken,2,positive
+"The homage to India is most evident in the delectable roti canai appetizer , a fried pancake served with pungent curry dipping sauce , while the mango chicken offers a surprisingly sophisticated , fresh take on sweet-and-sour .",fried pancake served with pungent curry dipping sauce,2,positive
+"It does n't look like much on the outside , but the minute you walk inside , it 's a whole other atmosphere .",outside,0,negative
+"It does n't look like much on the outside , but the minute you walk inside , it 's a whole other atmosphere .",atmosphere,2,positive
+The ground chickpea soup we sampled as a starter tasted somewhat thin .,ground chickpea soup,0,negative
+The ground chickpea soup we sampled as a starter tasted somewhat thin .,starter,1,neutral
+"We requested they re-slice the sushi , and it was returned to us in small cheese-like cubes .",sushi,0,negative
+"The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .",service,0,negative
+"The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .",quality of food,2,positive
+"The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .",bartenders,0,negative
+"The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .",clientele,0,negative
+"The service , however , is a peg or two below the quality of food ( horrible bartenders ) , and the clientele , for the most part , are rowdy , loud-mouthed commuters ( this could explain the bad attitudes from the staff ) getting loaded for an AC/DC concert or a Knicks game .",staff,0,negative
+"If you 're in the neighborhood , definitely stop by for a great meal .",meal,2,positive
+"Unfortunately , with our show tickets , we did n't have time to sample any desserts .",desserts,1,neutral
+Make more tables - perhaps a rooftop bar ?,tables,0,negative
+Make more tables - perhaps a rooftop bar ?,rooftop bar,1,neutral
+"The decoration was feeling like we was on the Cairo , actually the street is part of that adventure .",decoration,2,positive
+"Although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .",ambience,2,positive
+"Although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .",food,2,positive
+"Although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .",catfish,2,positive
+"Although small , it has beautiful ambience , excellent food ( the catfish is delicious - if ya do n't mind it a lil salty ) and attentive service .",service,2,positive
+I did n't go there for food so I ca n't comment .,food,1,neutral
+"Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .",", brisket",2,positive
+"Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .",", ribs",2,positive
+"Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .",", wings",2,positive
+"Stick to the items the place does best , brisket , ribs , wings , cajun shrimp is good , not great .",", cajun shrimp",1,neutral
+"Hip boutiques and bars on Ludlow add to the artsy , laid-back atmosphere at this Israeli-style takeout and eat-in burger joint .",atmosphere,2,positive
+"Young neighborhood trendies graze at the counter during the day , while chic , art-house drinkers with heavy doses of the munchies pile in late at night .",counter,1,neutral
+Bring your date and a bottle of wine !,bottle of wine,1,neutral
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",menu,2,positive
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",Japanese dishes,1,neutral
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",Foie Gras Unagi Napolean,1,neutral
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",", Jap style hamburger steak",1,neutral
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",", spicy cod roe spaghetti",1,neutral
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",", black cod with miso base",1,neutral
+"My Chelsea 's impressive and creative menu includes modern , Westernized Japanese dishes such as Foie Gras Unagi Napolean , Jap style hamburger steak , spicy cod roe spaghetti , black cod with miso base , and rack of lamb in black truffle sauce , to name a few .",rack of lamb in black truffle sauce,1,neutral
+"His food is excellent ( and not expensive by NYC standards - no entrees over $ 30 , most appetizers $ 12 to 14 ) .",food,2,positive
+"His food is excellent ( and not expensive by NYC standards - no entrees over $ 30 , most appetizers $ 12 to 14 ) .",appetizers,2,positive
+"His food is excellent ( and not expensive by NYC standards - no entrees over $ 30 , most appetizers $ 12 to 14 ) .",entrees,2,positive
+The food is consistant and good but how it got name Best Diner In Manhattan is beyond me .,food,2,positive
+"The pasta primavera was outstanding as well , lots of fresh veggies .",pasta primavera,2,positive
+"The pasta primavera was outstanding as well , lots of fresh veggies .",fresh veggies,2,positive
+"do n't get me wrong - sushi was good , just not fantastic .",- sushi,2,positive
+Being Puerto Rican I know a thing or two about flan and this place serves one of the best ( I hope Mom does n't read this ! ) .,flan,2,positive
+"Been to the one in Brooklyn for over 25 years , now I dont have to go over the bridge for the best pizza ... Hanx",pizza,2,positive
+Had dinner here on a Friday and the food was great .,dinner,1,neutral
+Had dinner here on a Friday and the food was great .,food,2,positive
+"We recently spent New Year 's Eve at the restaurant , and had a great experience , from the wine to the dessert menu .",wine,2,positive
+"We recently spent New Year 's Eve at the restaurant , and had a great experience , from the wine to the dessert menu .",dessert menu,2,positive
+"Highly recommended ... As stated , I have n't dined * in * the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .",place,2,positive
+"Highly recommended ... As stated , I have n't dined * in * the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .",bar,2,positive
+"Highly recommended ... As stated , I have n't dined * in * the restaurant but stopped by there to pick up takeout and it seems a very relaxing place ; also , the bar looks nice .",takeout,1,neutral
+"The ambiance was fine , a little loud but still nice and romantic .",ambiance,2,positive
+"but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ) .",cocktail hour,2,positive
+"but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ) .",filet mignon,0,negative
+"but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ) .",non-sushi selection,2,positive
+"but , the filet mignon was not very good at all cocktail hour includes free appetizers ( nice non-sushi selection ) .",appetizers,2,positive
+It took about 2 1/2 hours to be served our 2 courses .,courses,1,neutral
+It took about 2 1/2 hours to be served our 2 courses .,served,0,negative
+Who said go when the place is quiet during the day ?,place,1,neutral
+Can be a bit busy around peak times because of the size .,size,0,negative
+"I was on jury duty , rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade .",chicken tacos,2,positive
+"I was on jury duty , rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade .",Hibiscus lemonade,2,positive
+"I was on jury duty , rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and Hibiscus lemonade .",place,2,positive
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .,place,2,positive
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .,soup,1,neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .,french dish,1,neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine .,glass of wine,1,neutral
+Very nice touch that very much fits the place .,place,2,positive
+"However , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .",casual drink,2,positive
+"However , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .",outdoors,2,positive
+"However , there is just something so great about being outdoors , in great landscaping , enjoying a casual drink that makes going to this place worthwhile .",place,2,positive
+We were seated promptly in close proximity to the dance floor .,dance floor,1,neutral
+"If you are here as a pre-show meal , hop in a cab and take the extra 10 minutes to go to the uptown location .",pre-show meal,1,neutral
+"The comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .",fried foods,0,negative
+"The comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .",dishes,2,positive
+"The comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .",lamb entree,2,positive
+"The comments about fried foods is correct ( below ) but the other dishes , including the lamb entree and many of the salads ( avocado shrimp ) were quite good .",salads ( avocado shrimp,2,positive
+"Slow service , but when you 're hanging around with groups of 10 or 20 , who really notices ?",service,0,negative
+The sauce is excellent ( very fresh ) with dabs of real mozzarella .,dabs of real mozzarella,1,neutral
+The sauce is excellent ( very fresh ) with dabs of real mozzarella .,sauce,2,positive
+"Do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .",drinks,0,negative
+"Do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .",people,0,negative
+"Do n't ever bother - the drinks were awful , but it was the people who work there that really made this the worst experience at dining .",dining,0,negative
+"The room is a little plain , but it 's difficult to make such a small place exciting and I would not suggest that as a reason not to go .",room,0,negative
+"The room is a little plain , but it 's difficult to make such a small place exciting and I would not suggest that as a reason not to go .",place,0,negative
+Prices even outside of restaurant week were great .,Prices,2,positive
+"A small , outdoor eating area makes for a private , comfortable space to study alone or meet up with friends .",space,2,positive
+"A small , outdoor eating area makes for a private , comfortable space to study alone or meet up with friends .",", outdoor eating area",2,positive
+"The best dessert , a chocolate and peanut butter tart , is n't particularly Hawaiian , but it 's a small world when it comes to sweets .",dessert,2,positive
+"The best dessert , a chocolate and peanut butter tart , is n't particularly Hawaiian , but it 's a small world when it comes to sweets .",chocolate and peanut butter tart,2,positive
+"The best dessert , a chocolate and peanut butter tart , is n't particularly Hawaiian , but it 's a small world when it comes to sweets .",sweets,1,neutral
+"for an appetizer , their calamari is a winner .",appetizer,1,neutral
+"for an appetizer , their calamari is a winner .",calamari,2,positive
+Satay is one of those favorite haunts on Washington where the service and food is always on the money .,service,2,positive
+Satay is one of those favorite haunts on Washington where the service and food is always on the money .,food,2,positive
+After dinner I heard music playing and discovered that there is a lounge downstairs .,dinner,1,neutral
+After dinner I heard music playing and discovered that there is a lounge downstairs .,music,1,neutral
+After dinner I heard music playing and discovered that there is a lounge downstairs .,lounge,1,neutral
+"The room is a gorgeous , bi-level space and the long bar perfect for a drink .",room,2,positive
+"The room is a gorgeous , bi-level space and the long bar perfect for a drink .",", bi-level space",2,positive
+"The room is a gorgeous , bi-level space and the long bar perfect for a drink .",long bar,2,positive
+"The room is a gorgeous , bi-level space and the long bar perfect for a drink .",drink,1,neutral
+"Two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",appetizer selection,0,negative
+"Two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",mozzarella sticks,1,neutral
+"Two complaints - their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .",menu,0,negative
+I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .,waitstaff,2,positive
+I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party .,service,2,positive
+The chicken and falafel platters were nondescript combinations with fresh leaf salad .,chicken and falafel platters,1,neutral
+The chicken and falafel platters were nondescript combinations with fresh leaf salad .,fresh leaf salad,1,neutral
+"The atmosphere takes you to that place , the place many dream of .",atmosphere,2,positive
+"several times and put up with the waiters ' bad manners , knowing that their job is n't easy .",waiters,0,negative
+"The service is great ( maybe even borderline nagging but at least you get attention ) , the desserts are excellent and the coffee is so very good ...",desserts,2,positive
+"The service is great ( maybe even borderline nagging but at least you get attention ) , the desserts are excellent and the coffee is so very good ...",coffee,2,positive
+They are served on Focacchia bread and are to die for .,served,1,neutral
+They are served on Focacchia bread and are to die for .,Focacchia bread,1,neutral
+"While the smoothies are a little big for me , the fresh juices are the best I have ever had !",smoothies,0,negative
+"While the smoothies are a little big for me , the fresh juices are the best I have ever had !",fresh juices,2,positive
+"The food is just OKAY , and it 's almost not worth going unless you 're getting the pialla , which is the only dish that 's really good .",pialla,2,positive
+"The food is just OKAY , and it 's almost not worth going unless you 're getting the pialla , which is the only dish that 's really good .",dish,2,positive
+"The guac is fresh , yet lacking flavor , we like to add our fresh salsa into it .",fresh salsa,1,neutral
+"The guac is fresh , yet lacking flavor , we like to add our fresh salsa into it .",flavor,0,negative
+"The new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but I must agree with the person that wrote about their favorite words : No , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .",prices,0,negative
+"The new menu has a few creative items , they were smart enough to keep some of the old favorites ( but they raised the prices ) , the staff is friendly most of the time , but I must agree with the person that wrote about their favorite words : No , ca n't , sorry ... , boy , they wo n't bend the rules for anyone .",new menu,2,positive
+It ' only open for lunch but the food is so good !,lunch,1,neutral
+It ' only open for lunch but the food is so good !,food,2,positive
+If you like seafood and/or Greek food you will love this place though it is not limited to just these things .,seafood,2,positive
+If you like seafood and/or Greek food you will love this place though it is not limited to just these things .,Greek food,2,positive
+"'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .",menu,1,neutral
+"'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .",-- burgers,1,neutral
+"'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .",", steaks",1,neutral
+"'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .",shepherds pie,1,neutral
+"'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .",portabella lasagna,1,neutral
+"'' The menu includes pub fare -- burgers , steaks and shepherds pie -- and even a portabella lasagna for those black sheep known as `` vegetarians .",pub fare,1,neutral
+How can they survive serving mediocre food at exorbitant prices ?!,food,1,neutral
+How can they survive serving mediocre food at exorbitant prices ?!,prices,0,negative
+The food was mediocre and the service was severely slow .,service,0,negative
+The food was mediocre and the service was severely slow .,food,1,neutral
+i have eaten here on a different occasion - the food is mediocre for the prices .,food,1,neutral
+i have eaten here on a different occasion - the food is mediocre for the prices .,prices,0,negative
+I 'm looking forward to going back soon and eventually trying most everything on the menu !,menu,2,positive
+I just had my first visit to this place and ca n't wait to go back and slowly work my way through the menu .,menu,1,neutral
+I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .,waiter,0,negative
+I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude waiter .,meal,1,neutral
+I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk .,brunch,1,neutral
+I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk .,vegan cranberry pancakes,1,neutral
+I stopped by for some brunch today and had the vegan cranberry pancakes and some rice milk .,rice milk,1,neutral
+Sweet Irish bartender is always happy and able to bring a smile to my friends a my face .,bartender,2,positive
+Its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .,service,0,negative
+Its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .,drink,1,neutral
+Its good to go there for drinks if you do n't want to get drunk because you 'll be lucky if you can get one drink an hour the service is so bad .,drinks,1,neutral
+"Anyway , the owner was fake .",owner,0,negative
+Owner is pleasant and entertaining .,Owner,2,positive
+"I have never in my life sent back food before , but I simply had to , and the waiter argued with me over this .",food,0,negative
+"I have never in my life sent back food before , but I simply had to , and the waiter argued with me over this .",waiter,0,negative
+"Although the restaurant itself is nice , I prefer not to go for the food .",food,0,negative
+"Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .",Creamy appetizers,2,positive
+"Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .",warm pitas,1,neutral
+"Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .",-- taramasalata,2,positive
+"Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .",", eggplant salad",2,positive
+"Creamy appetizers -- taramasalata , eggplant salad , and Greek yogurt ( with cuccumber , dill , and garlic ) taste excellent when on warm pitas .","Greek yogurt ( with cuccumber , dill , and garlic",2,positive

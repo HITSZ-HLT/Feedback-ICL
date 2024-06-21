@@ -1,0 +1,301 @@
+sentence,aspect,label_id,label,prediction,zeropred
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .,food,0,negative,positive,neutral
+"I would n't even have complained at all if the food at least tasted good but the quality of food was crappy , too .",quality of food,0,negative,negative,negative
+"Waiters tend to forget drinks completely , food portions are so tiny , two people have trouble sharing one entree .",", food portions",0,negative,negative,neutral
+"A few tips : skip the turnip cake , roast pork buns and egg custards .",", roast pork buns",0,negative,negative,negative
+My first time there I happened not to like the Crab Croquette apt that i ordered and they were happy to change it for me without making no big deal .,Crab Croquette apt,0,negative,positive,neutral
+"An excellent alternative to fast food joints and ordering in but , the food was slightly disappointing .",fast food,0,negative,neutral,negative
+Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area .,prices,0,negative,negative,negative
+"Stay away from the two specialty rolls on the menu , though - too much avocado and rice will fill you up right quick .",rolls,0,negative,negative,negative
+The food was lousy - too sweet or too salty and the portions tiny .,portions,0,negative,negative,positive
+"The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .",service,0,negative,negative,neutral
+"The dim sum is ok but does n't taste that fresh , and the little dishes do n't look steamy hot as they should ( also note lack of Chinese here ) .",dim sum,0,negative,neutral,positive
+"Butter was melted , white wine warm , cheese oozing everywhere .",", cheese",0,negative,positive,negative
+"If you want Americanized Chinese food with your usual watery , generic white sauce , this is your place .",white sauce,0,negative,negative,neutral
+"The dinner was ok , nothing I would have again .",dinner,0,negative,neutral,positive
+"If you do n't mind pre-sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",fish,0,negative,negative,neutral
+"That is a problem since we paid about 20 bucks a dish , and had to order 5 dishes to get a decent taste .",dishes,0,negative,negative,neutral
+"Thalia is a beautiful restaurant with beautiful people serving you , but the food does n't quite match up .",food,0,negative,neutral,negative
+"Took my mom for Mother 's Day , and the maitre d' was pretty rude .",maitre d',0,negative,negative,negative
+"Yeah , sometimes the service can be slow .",service,0,negative,negative,neutral
+"After we got our sashimi order , I could not believe how small the portions were !",portions,0,negative,negative,positive
+The food was very expensive ( we spent $ 160 for lunch for two ) but extremely tasty .,lunch,0,negative,neutral,positive
+"Only drawback - they wo n't toast your bagel , and they do n't make eggs for the bagel .",bagel,0,negative,neutral,negative
+"Both times I was extremely dissappointed by the service , which was boarderline rude .",service,0,negative,negative,positive
+They even have a section in the menu called American Chinese food !,American Chinese food,0,negative,positive,negative
+"Yet paired with such rude service , would never recommend for anyone interested in carrying any kind of conversation while there .",service,0,negative,negative,negative
+"Moules were excellent , lobster ravioli was VERY salty !",", lobster ravioli",0,negative,negative,positive
+Tell them Herky sent you and get a free confused look from the waiter .,waiter,0,negative,neutral,negative
+"The portions are now very small , the sauces are overly-ambitious usually inedible while the service is still good , the restaurant , due to its popularity , seems frantic .",sauces,0,negative,negative,negative
+"I had their eggs benedict for brunch , which were the worst in my entire life , I tried removing the hollondaise sauce completely that was how failed it was .",eggs benedict,0,negative,negative,neutral
+We wo n't go to this place again for a good meal .,meal,0,negative,negative,positive
+"The first 2 courses were very good , but the chocolate sampler was too rich for me and the dessert wine far too sweet .",chocolate sampler,0,negative,neutral,neutral
+"For the quality of food , a little too expensive .",quality of food,0,negative,negative,neutral
+All my co-workers were amazed at how small the dish was .,dish,0,negative,negative,negative
+Knowledge of the chef and the waitress are below average .,waitress,0,negative,negative,neutral
+"However , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .",decor,0,negative,neutral,positive
+"No refills on fountain drinks , though .",fountain drinks,0,negative,negative,negative
+"I had the cod with paella ( spicy and very filling , I 'm a big eater and could only eat half ) while my boyfriend had the classic fish and chips ( again , a big serving - at least 5 pieces of fish and a basketful of fries ) .",cod with paella,0,negative,positive,negative
+We thought that this place is using too much of MSG cooking in the foods .,foods,0,negative,negative,positive
+"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated , we were served dishes we had n't ordered three times , received one of our orders 20 minutes after the rest of the table had been served ( and that order was undercooked ) , and charged $ 45 more than we should have been on our bill .",table,0,negative,negative,positive
+"Staffs are not that friendly , but the taste covers all .",Staffs,0,negative,neutral,negative
+"Our waiter was fine , the place looks nice in that not-trying-too-hard way , but at those prices , a little more should be expected of your food .",food,0,negative,negative,negative
+"First off , the waitress was completely unattentive the 2 times we saw her ( odd in a restaurant with 6 tables ) and got our order wrong .",waitress,0,negative,negative,neutral
+I usually go there later at night when I get off work so I do n't have to deal with crowds or lines .,crowds,0,negative,negative,neutral
+"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed , however herb mix or other sauce would have done much to enhance .",sauce,0,negative,negative,negative
+"Everything , from the soft bread , soggy salad , and 50 minute wait time , with an incredibly rude service to deliver below average food .",wait,0,negative,negative,positive
+"The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible , reaching for sunglasses .",spot lights,0,negative,negative,neutral
+"However , go for the ambience , and consider the food just a companion for a trip across the world !",food,0,negative,negative,positive
+"The bruscetta is a bit soggy , but the salads were fresh , included a nice mix of greens ( not iceberg ) all dishes are served piping hot from the kitchen .",bruscetta,0,negative,neutral,negative
+"Small servings for main entree , i had salmon ( wasnt impressed ) girlfriend had chicken , it was good .",entree,0,negative,neutral,neutral
+For those prices and the dressed up atmosphere you expect more and should get more .,atmosphere,0,negative,negative,positive
+The menu prices are a bit expensive for what you get in quality and portion size .,quality,0,negative,negative,neutral
+"The menu looked good , except for offering the Chilean Sea Bass , but the server does not offer up the specials that were written on the board outside .",Chilean Sea Bass,0,negative,negative,negative
+"Because of the delicate thin crust , take-out pies get soggy in their boxes .",", take-out pies",0,negative,neutral,neutral
+"The food is terrible and overall , I would have to say avoid at all costs .",food,0,negative,negative,negative
+"Just do n't take the seat between the bar and the back half of the restaurant , i saw a woman get nudged 40times sitting there .",seat,0,negative,negative,negative
+"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated , we were served dishes we had n't ordered three times , received one of our orders 20 minutes after the rest of the table had been served ( and that order was undercooked ) , and charged $ 45 more than we should have been on our bill .",served,0,negative,negative,negative
+"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",sushi,0,negative,negative,positive
+"The service was mediocre , and the lack of air conditioning made for a less than comfortable meal .",air conditioning,0,negative,negative,negative
+The menu prices are a bit expensive for what you get in quality and portion size .,portion size,0,negative,negative,positive
+"Well , this place is so Ghetto its not even funny .",place,0,negative,negative,negative
+"Furthermore , the rice had no seasoning , so the sushi was bland and disgusting .",rice,0,negative,negative,negative
+As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were .,employees,0,negative,negative,positive
+"But do n't ever order bacon late at nite ( either platter or in sandwiches , for that matter do n't from any take out place ) as it is from the morning frying turns out hard almost like bacos , hurt my molars .",bacon,0,negative,negative,negative
+"It costs $ 2 extra to turn a regular roll into an inside-out roll , but the roll more than triples in size , and that 's not just from the rice .",roll,0,negative,neutral,positive
+"The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .",bread,0,negative,positive,positive
+"But do n't ever order bacon late at nite ( either platter or in sandwiches , for that matter do n't from any take out place ) as it is from the morning frying turns out hard almost like bacos , hurt my molars .",frying,0,negative,negative,neutral
+The hostess and the waitress were incredibly rude and did everything they could to rush us out .,hostess,0,negative,negative,positive
+A bit breezy up there on the mezzanine from the wind coming from the tracks .,mezzanine,0,negative,neutral,positive
+We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order .,waitress,0,negative,negative,neutral
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .,service,0,negative,negative,negative
+"This place does n't compare with Mamoun 's in terms of price , freshness , value , and consisent quality , but that 's just my opinion .",price,0,negative,negative,negative
+"Everything , from the soft bread , soggy salad , and 50 minute wait time , with an incredibly rude service to deliver below average food .",salad,0,negative,negative,neutral
+"But do n't ever order bacon late at nite ( either platter or in sandwiches , for that matter do n't from any take out place ) as it is from the morning frying turns out hard almost like bacos , hurt my molars .",in sandwiches,0,negative,negative,neutral
+"Besides , when you have bad service , that 's less money you have to tip .",service,0,negative,negative,neutral
+Pizza was a little soggy .,Pizza,0,negative,negative,negative
+"Besides , when you have bad service , that 's less money you have to tip .",tip,0,negative,negative,neutral
+"Do n't dine at Tamarind for the vegetarian dishes , they are simply not up to par with the non-veg selections .",vegetarian dishes,0,negative,negative,neutral
+"The only weird thing was if we got a bottle , the waitress would have simply multiplied the glass price X4 , which makes no sense whatsoever .",waitress,0,negative,negative,negative
+"To my right , the hostess stood over a busboy and hissed rapido , rapido as he tried to clear and re-set a table for six .",hostess,0,negative,negative,negative
+"I have been a longtime fan of Holy Basil in the East Village , and while I do believe their food has slightly slipped in quality , I have been hesitant to be disloyal .",food,0,negative,negative,negative
+"From the terrible service , to the bland food , not to mention the unaccommodating managers , the overall experience was horrible .",service,0,negative,negative,positive
+Priced at upper intermediate range .,Priced,0,negative,neutral,negative
+"I would not have been so disappointed with the portions if the qualities were good enough to make up for it , but they were not !",qualities,0,negative,negative,negative
+"Waiters tend to forget drinks completely , food portions are so tiny , two people have trouble sharing one entree .",Waiters,0,negative,negative,neutral
+"Over price , and small portions .",portions,0,negative,negative,positive
+"The entree was bland and small , dessert was not inspired .",", dessert",0,negative,negative,positive
+"While most people can attest to spending over $ 50 on drinks in New York bars and hardly feeling a thing , the drinks here are plentiful and unique .",bars,0,negative,positive,neutral
+And the bill was outragous .,bill,0,negative,negative,negative
+We ordered a tuna melt - it came with out cheese which just made it a tuna sandwich .,tuna sandwich,0,negative,negative,positive
+"A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .",manager,0,negative,neutral,positive
+"The wine list is n't great , and the desserts are shipped in from Bruno 's down the street , which is not as good as it used to be .",desserts,0,negative,negative,negative
+"The menu changed , portions were even smaller than before , a lentil dish was salty beyond edibility , a basmati rice dish lacked flavor .",basmati rice dish,0,negative,negative,neutral
+"I had the cod with paella ( spicy and very filling , I 'm a big eater and could only eat half ) while my boyfriend had the classic fish and chips ( again , a big serving - at least 5 pieces of fish and a basketful of fries ) .",fish and chips,0,negative,positive,positive
+They came out over cooked and the cheese was almost non existant .,cheese,0,negative,negative,neutral
+"With so many good restaurants on the UWS , I do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care .",diner,0,negative,negative,neutral
+"We asked to be moved ( which took half an hour ) , and then were seated in a high traffic area in the back , even though the rest of the room was practically empty .",area,0,negative,negative,negative
+"Stay away from the two specialty rolls on the menu , though - too much avocado and rice will fill you up right quick .",avocado,0,negative,neutral,positive
+"After all that , they complained to me about the small tip .",tip,0,negative,negative,positive
+Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them .,table,0,negative,negative,positive
+"The drinks are a saving grace , but service staff , please , get over yourselves .",service staff,0,negative,negative,positive
+I ordered the chu chu curry and my friend ordered the pad thai chicken .,chu chu curry,1,neutral,positive,negative
+"This was n't the expected menu comprised only of pad thai and tom yum soup , but I thought that was what made the place so special .",tom yum soup,1,neutral,neutral,negative
+"Warm , comfortable surroundings , nice appointments ( witness the etched glass and brickwork separating the dining rooms ) .",dining rooms,1,neutral,positive,neutral
+"I must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef 's special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal .",main entree,1,neutral,neutral,positive
+"The service is ok , some of the people did n't get what they asked for .",service,1,neutral,neutral,neutral
+I care more about the food and ambience .,ambience,1,neutral,neutral,neutral
+"I would definitely go back for a very special occasion , but not for regular fine dining .",dining,1,neutral,neutral,positive
+We ordered a tuna melt - it came with out cheese which just made it a tuna sandwich .,cheese,1,neutral,negative,neutral
+"Great wine selection , Gigondas is worth the price , and the house champagne is a great value .",price,1,neutral,positive,negative
+The bill is approximately $ 25 for 2 at lunch without drinks .,bill,1,neutral,neutral,neutral
+"It took half an hour to get our check , which was perfect since we could sit , have drinks and talk !",check,1,neutral,positive,neutral
+"Oh yes , and they lie on the phone , claiming they have seating in the garden , then of course the seats are not available .",seats,1,neutral,negative,negative
+Were meeting up with some friends for a drink at Lafayette 161 and happened to walk by Thai Angel famished .,drink,1,neutral,positive,negative
+Stuffing yourself with Japanese food is a rare thing .,Japanese food,1,neutral,positive,negative
+"they did n't disappoint , service from the second i arrived at the door was extremely pleasant and attentive with almost one server per table .",table,1,neutral,positive,neutral
+i do n't usually order wine with indian so i ca n't comment on their wine list or their wines .,wine list,1,neutral,neutral,neutral
+kalbi and nebbiolo do work together .,kalbi,1,neutral,neutral,positive
+The staff was too busy ordering sushi for dinner and then laying it out to eat on the bar to even bring me my check .,bar,1,neutral,negative,neutral
+"While certain staples are excellent ( the burger , some of the pastas ) , the food is not really the point .",food,1,neutral,neutral,neutral
+I always get the Shabu-Shabu dinner and the beef is always fresh .,Shabu-Shabu dinner,1,neutral,positive,positive
+Since my first dinner I have had the chance to have brunch at Orsay 3x .,brunch,1,neutral,positive,positive
+"Aside from the Sea Urchin , the chef recommended an assortment of fish including Fatty Yellow Tail , Boton Shrimp , Blue Fin Torro ( Fatty Tuna ) , Sea Eel , etc. .",Fatty Yellow Tail,1,neutral,positive,neutral
+"The second you walk through the heavy vault like door , with people anticipating your arrival you get the sense that you are going to have the dining ride of a lifetime .",door,1,neutral,positive,neutral
+"The wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for Chinatown ) alternative .",dim sum atmosphere,1,neutral,neutral,positive
+"The staff is very kind and well trained , they 're fast , they are always prompt to jump behind the bar and fix drinks , they know details of every item in the menu and make excelent recomendations .",drinks,1,neutral,positive,negative
+We were seated outside and the waiter spilled red wine and hot tea on myself and my date .,hot tea,1,neutral,negative,positive
+The restaraurant is very small so reservations are a must .,reservations,1,neutral,neutral,neutral
+"On the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse , and food that will outshine in presentaion , taste , choice , quality and quantity .",service,1,neutral,neutral,positive
+"- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the Peter 's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad .",Peter 's Favourite pizza with prosciutto and baby arugula,1,neutral,negative,negative
+A great way to make some money is to buy a case of snapple from Costco and sell it right outside for only $ 2.50 .,case of snapple,1,neutral,neutral,neutral
+"It might have been a little too spicy for my friend , which you can couteract with eat more rice and keeping water on hand .",water,1,neutral,neutral,positive
+"Good French restaurant in an area devoid of decent restaurants unless you 're into eating 4 pound pastrami sandwiches at Katz ' Deli , or Mexican food which is supplied by capable restaurants .",pastrami sandwiches,1,neutral,negative,positive
+Every waitress and customer who passed by me bumped into my chair .,waitress,1,neutral,negative,neutral
+we were seated at the sushi bar in front of yasuda .,sushi bar,1,neutral,neutral,positive
+Although we were looking for regular lettuce and some walnuts the salads we got were great .,lettuce,1,neutral,neutral,positive
+Went there and had a combination of different seafood dishes and appetizers .,appetizers,1,neutral,positive,positive
+"Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best , freshly baked bread !",toppings,1,neutral,neutral,positive
+"Aside from the Sea Urchin , the chef recommended an assortment of fish including Fatty Yellow Tail , Boton Shrimp , Blue Fin Torro ( Fatty Tuna ) , Sea Eel , etc. .",Sea Urchin,1,neutral,positive,positive
+"They did not have mayonnaise , forgot our toast , left out ingredients ( ie cheese in an omelet ) , below hot temperatures and the bacon was so over cooked it crumbled on the plate when you touched it .",omelet,1,neutral,negative,neutral
+I am not sure if I would call the food here Indian as it is a fusion of what seems to be French with an Indian or exotic touch .,food,1,neutral,neutral,negative
+"The menu was impressive with selections ranging from a burger , to steak , to escargot .",steak,1,neutral,neutral,negative
+Owner must have coem on this website to give himself credit .,Owner,1,neutral,negative,neutral
+They do n't walk around with the trays of Dim Sum .,trays of Dim Sum,1,neutral,negative,neutral
+I grew up eating Dosa and have yet to find a place in NY to satisfy my taste buds .,Dosa,1,neutral,neutral,negative
+Decor is minimalist and clean - nothing to distract or commend .,Decor,1,neutral,neutral,positive
+This is a consistently great place to dine for lunch or dinner .,dinner,1,neutral,positive,neutral
+"While the prices are nothing special , the portions are huge .",prices,1,neutral,neutral,neutral
+I noted it was crossed off on the bill .,bill,1,neutral,neutral,neutral
+The server was really cool and served us our food and drinks with a smile .,food,1,neutral,positive,neutral
+My husband and I have been there a couple of times and each time we sat at the sushi bar ( chef Yoshi ) and ordered everything ala carte .,( chef,1,neutral,positive,neutral
+As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were .,containers,1,neutral,negative,neutral
+"The menu was impressive with selections ranging from a burger , to steak , to escargot .",burger,1,neutral,positive,negative
+"To celebrate a birthday , three of us went to Mare anticipating great food .",food,1,neutral,positive,negative
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .,meals,1,neutral,positive,negative
+The workers there also absolutely load the bagel with cream cheese ( gets a little messy ) .,bagel,1,neutral,positive,positive
+This restaurant used to be our regular Thursday night dinner location .,dinner location,1,neutral,neutral,neutral
+"Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .",meats,1,neutral,neutral,neutral
+we came here on a crowded saturday night and were seated right away despite being 15 minutes late for our reservation .,reservation,1,neutral,neutral,positive
+When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else .,bagels,1,neutral,positive,negative
+"Aside from the Sea Urchin , the chef recommended an assortment of fish including Fatty Yellow Tail , Boton Shrimp , Blue Fin Torro ( Fatty Tuna ) , Sea Eel , etc. .",") , Sea Eel",1,neutral,positive,negative
+great place to go for a drink too because they have 100 kinds of beer .,drink,1,neutral,positive,neutral
+We began with the cheese fondue ( the artisanal blend ) and added apples and kielbasa to dip .,apples,1,neutral,positive,negative
+We always get a sampling of appetizers and share .,appetizers,1,neutral,positive,positive
+"this is the best secret place in midtown ' , I heard that from the bartender , after having brilliant food ( try steak with portobello mushrooms ) and drinks on the bar last Tuesday .",bartender,1,neutral,positive,negative
+"$ 160 for 2 filets , 2 sides , an appetizer and drinks .",sides,1,neutral,positive,neutral
+This place must have cost the owners afortune to build .,owners,1,neutral,negative,positive
+"I had a terrific meal , and our server guided us toward a very nice wine in our price range , instead of allowing us to purchase a similarly priced wine that was n't as good .",priced,1,neutral,positive,negative
+I had very high expectations for this place and made a reservation a couple of months in advance for a special occasion .,reservation,1,neutral,positive,positive
+A Thai restaurant out of rice during dinner ?,rice,1,neutral,negative,positive
+This food is asian-air fusion .,food,1,neutral,neutral,positive
+"The service is a bit slow , but harkens back to my years growing up in Napoli , Italy where things are not rushed and when you sit down for dinner the table is yours all night .",dinner,1,neutral,neutral,neutral
+This is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .,dinner meeting,1,neutral,neutral,negative
+"I am a 100 lb girl , had a glass of wine and a glass of beer prior to the dinner , and I was still HUNGRY after my visit to this place !",dinner,1,neutral,positive,positive
+"And it all comes at a very reasonable price ( congee , noodles , and rice dishes are no more than $ 3-6 each ) .",( congee,1,neutral,positive,negative
+"But when you are seated the waitresses are great , they explain everything on the menu , and the price of the food is really cheap for the service you get .",food,1,neutral,positive,negative
+"Had 1 appetizer , 2 entrees and 2 cokes and the bill was ~ $ 55.00 , not including tip .",appetizer,1,neutral,neutral,positive
+The drinks are always welll made and wine selection is fairly priced .,wine selection,1,neutral,positive,positive
+I 've waited over one hour for food .,food,1,neutral,negative,negative
+"The food is very good too but for the most part , it 's just regular food , nothing special .",food,1,neutral,neutral,neutral
+Any if you have a reservation you 'll wait for max 5 minutes - so have a drink at the bar .,drink,1,neutral,positive,neutral
+"Have always found that the waiters will go out of their way to be helpful , despite the fact they are often busy with lots of diners .",diners,1,neutral,positive,neutral
+The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you do n't like .,food,1,neutral,positive,positive
+"- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the Peter 's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad .",salad,1,neutral,neutral,neutral
+After really enjoying ourselves at the bar we sat down at a table and had dinner .,dinner,1,neutral,neutral,negative
+"Having not been home in the last 2 years may skew this reviewer a bit , but the food was tasty and spicy sans the oil that comes floating along at similar venues .",oil,1,neutral,negative,neutral
+"We only ordered desserts and drinks , but no refills were offered .",drinks,1,neutral,neutral,neutral
+Food was OK - fish was cooked well .,Food,1,neutral,neutral,neutral
+If you like spicy food get the chicken vindaloo .,spicy food,1,neutral,positive,negative
+"I must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef 's special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal .",cold udon,1,neutral,neutral,neutral
+The menu choices are similar but the taste lacked more flavor than it looked .,menu choices,1,neutral,neutral,neutral
+"I have been here a few times for dinner , once for brunch and twice for lunch .",dinner,1,neutral,positive,negative
+Instead of wasting your time here : SUPPORT RESTAURANTS THAT CARE ABOUT FOOD .,FOOD,1,neutral,negative,neutral
+"Each table has a pot of boiling water sunken into its surface , and you get platters of thin sliced meats , various vegetables , and rice and glass noodles .",rice,1,neutral,positive,neutral
+"You will pay a lot for the decore , but the food is no better or worse than a lot of other Chinese and Asian fusion places in NY .",food,1,neutral,neutral,neutral
+"Aside from the Sea Urchin , the chef recommended an assortment of fish including Fatty Yellow Tail , Boton Shrimp , Blue Fin Torro ( Fatty Tuna ) , Sea Eel , etc. .",chef,1,neutral,positive,positive
+We began with the cheese fondue ( the artisanal blend ) and added apples and kielbasa to dip .,cheese fondue,1,neutral,positive,negative
+I 've read some of the previews reviews - people are either not New Yorkers or have more appreciation for ambience then food .,ambience,1,neutral,neutral,neutral
+"After the main course came , we did n't see our waiter for at least 40 MINUTES !",main course,1,neutral,negative,neutral
+I would recommend putting your name down and then getting a drink at a local bar first though because of the wait time .,drink,1,neutral,neutral,negative
+"The space is a bit too small for live music , so on jazz nights , it can be loud and cramped .",jazz nights,1,neutral,neutral,neutral
+"Despite the fact that the space is large , they 've overcrowded the floor with tables .",space,2,positive,negative,negative
+The price is reasonable although the service is poor .,price,2,positive,neutral,negative
+The space is nice but when we order our drink we were in for a surprise .,space,2,positive,neutral,neutral
+"When going out for a nice dinner , I like a nice ambiance as well as very good food .",food,2,positive,positive,neutral
+Regardless of whether there are two people or two hundred people ahead of you the hostess will take your name and tell you Five minutes .,hostess,2,positive,neutral,negative
+"The staff has always been friendly without seeming grating , and the chef has greeted us on a couple of occasions .",chef,2,positive,positive,positive
+"The in-house lady DJ on Saturday nights has outrageously good taste in music , and moreover , takes requests .",in-house lady DJ,2,positive,positive,negative
+I would like to return and try some of the other menu items when I do n't have to rush off to a show .,menu items,2,positive,positive,negative
+All conveniently delivered right to the door .,delivered,2,positive,positive,positive
+We had the most wonderful waitress .,waitress,2,positive,positive,positive
+"Great food , good size menu , great service and an unpretensious setting .",service,2,positive,positive,negative
+Authentic Pakistani food .,Pakistani food,2,positive,positive,negative
+"Delicate spices , onions , eggs and a kick-ass roti .",", onions",2,positive,positive,positive
+The food is prepared quickly and efficiently .,food,2,positive,positive,positive
+We had a 3 hour brunch - they definitely do not rush you - and they kept the unlimited mimosas flowing the whole time .,mimosas,2,positive,positive,negative
+"Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed , however herb mix or other sauce would have done much to enhance .",Barbecued codfish,2,positive,neutral,positive
+Try the Pad Se-Ew or Chicken with Cashew Nuts for a memorable and repeatable experience .,Chicken with Cashew Nuts,2,positive,positive,positive
+The food and staff always surprise me with the new heights they are taken to .,staff,2,positive,positive,positive
+"This is the perfect spot for meeting friends , having lunch , dinner , pre-theatre or after-theatre drinks !",spot,2,positive,positive,negative
+"The food was amazing , the service was so attentive and personable , and how about that ambience !",service,2,positive,positive,positive
+"My entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid , and was unnecessarily heated with a burner .",entree,2,positive,negative,positive
+Great place to grab a hot bagel on the way to work .,hot bagel,2,positive,positive,neutral
+Good bagels and good cream cheese .,cream cheese,2,positive,neutral,positive
+The food is tasty and portion sizes are appropriate .,portion sizes,2,positive,neutral,negative
+The music is the best among all the Indian restaurants I have visited .,music,2,positive,positive,positive
+"The service was superb , they treat you like family .",service,2,positive,positive,neutral
+Example is the soup which was about 6 oz for $ 12 dollars and the mushrooms where $ 12 for about 1oz .,mushrooms,2,positive,negative,neutral
+The place was nice and calm .,place,2,positive,positive,negative
+Jimmy 's is hands down the hottest night spot in the Bronx .,spot,2,positive,positive,neutral
+Taj Mahal offeres gret value and great food .,food,2,positive,positive,neutral
+The steak was excellent and one of the best I have had ( I tasted the butter intitally but in no way did it overwhelm the flavor of the meat ) .,meat,2,positive,positive,negative
+"- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the Peter 's Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad .",bread,2,positive,positive,positive
+The wine list is extensive and impressive .,wine list,2,positive,positive,negative
+"Super friendly and knowledgable staff , fabulous bistro fare and a wonderful jazz brunch with great live jazz ( the chilaquiles were awesome !",staff,2,positive,positive,negative
+"Nice ambiance , nice little bar , good bartender , Francois , and good service .",service,2,positive,positive,neutral
+Tried the pad see ew on the recommendation of the last reviewer since it 's one of my favorite dishes .,dishes,2,positive,positive,positive
+"If you want some roast duck , pork or chicken on rice with ginger , try them out !",roast duck,2,positive,positive,neutral
+The food there is so good that even to order out the wait is incredible .,food,2,positive,positive,neutral
+"Fluke sashimi drizzled with jalapeno-lime olive oil , the fruit of the oil nicely highlighting the fish 's sweetness .",fish,2,positive,positive,neutral
+"Service was warm and attentive , beef carpaachio was exellent ( huge portion ) and pasta was fresh and well-prepared .",portion,2,positive,positive,neutral
+"As much as I like the food there , I ca n't bring myself to go back .",food,2,positive,negative,positive
+The grilled cheese at home afterwards was better . !!,grilled cheese,2,positive,negative,neutral
+The spicy tuna and salmon are the best we 've ever had .,salmon,2,positive,positive,positive
+We ended our great experience by having Gulab Jamun ( dessert ) recommended by the waiter .,Gulab Jamun ( dessert,2,positive,positive,neutral
+"Meanwhile , the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil , gratis .",bartender,2,positive,positive,positive
+Mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,panchetta,2,positive,positive,negative
+So all I 'm trying to say is this restaurant is by far the best thai food restaurant I 've ever been to .,thai food,2,positive,positive,negative
+The best pad thai i 've ever had .,pad thai,2,positive,positive,positive
+Try the green curry !!!,green curry,2,positive,positive,negative
+This is an amazing place to try some roti rolls .,roti rolls,2,positive,positive,negative
+The corned beef was tender and melted in my mouth .,corned beef,2,positive,positive,neutral
+"Upon entering , we were greeted by the owners , Steven and Frederick , who went out of their way to be more than gracious hosts .",hosts,2,positive,positive,positive
+"My husband had the mesclun , salmon , and ice cream and he enjoyed all 3 courses .",mesclun,2,positive,positive,neutral
+Another plus is most of the entrees are approx .,entrees,2,positive,positive,neutral
+"Excellent atmosphere , delicious dishes good and friendly service .",dishes,2,positive,positive,negative
+"The bread and lamb chops I had before the meal were quite good , however .",lamb chops,2,positive,neutral,neutral
+"It only took about five or so minutes to get an empty table , but standing up was n't too bad .",table,2,positive,neutral,neutral
+Very good wine choices .,wine choices,2,positive,positive,neutral
+"great wine list ( italian ) , good food , service was INITIALLY fine .",wine list,2,positive,neutral,negative
+"Even though I made the reservation at 3 pm for the same night through Dinnerbroker , we were seated at a table with one of the best view !",reservation,2,positive,positive,neutral
+The spicy Tuna roll is huge and probably the best that I 've had at this price range .,price range,2,positive,neutral,negative
+Here you get the zen feel without feeling rigid .,zen feel,2,positive,positive,neutral
+"The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top-notch .",halibut special,2,positive,positive,positive
+This is the pinnacle of Indian Fast Food ( all fast foods in my opinion ) .,Indian Fast Food,2,positive,positive,neutral
+"Although the tables may be closely situated , the candle-light , food-quality and service overcompensate .",candle-light,2,positive,positive,negative
+"If you 're looking for a place to sit down , have a drink and conversations with friends , go to sweet-n-tart and order yourself a hong-kong styled milk and tea with tapioca pearls ( hot ) .",tea with tapioca pearls ( hot,2,positive,positive,neutral
+"Decor is nice and minimalist , food simple yet very well presented and cooked , and the wine list matches the food very well .",", food",2,positive,positive,neutral
+The menu seemed to have a wide variety of dishes for seafood lovers and interesting ways of preparing them .,seafood,2,positive,positive,positive
+"It may be a bit packed on weekends , but the vibe is good and it is the best French food you will find in the area .",vibe,2,positive,positive,neutral
+"Spice is great Thai food , love the inexpensive appetizers .",Thai food,2,positive,positive,neutral
+The jukebox plays everything from Italian Opera to The Strokes .,jukebox,2,positive,positive,negative
+"A cool bar with great food , and tons of excellent beer .",food,2,positive,positive,negative
+"I have been there many times , and food is good and consistent .",food,2,positive,positive,positive
+"Save your money and do n't waste your calories , go to Margharita 's on Washington Street instead , they have amazing food and the BEST service .",food,2,positive,positive,positive
+"Do n't go alone -- even two people is n't enough for the whole experience , with pickles and a selection of meats and seafoods .",selection of meats and seafoods,2,positive,positive,negative
+"The corned beef and pastrami are excellent , much less fatty than those big tourist places around Times Square .",corned beef,2,positive,positive,positive
+"Service was devine , oysters where a sensual as they come , and the price ca n't be beat !!!",Service,2,positive,positive,positive
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat .,service,2,positive,positive,neutral
+"Aside from the rushed service , we were very impressed with the food and the drinks .",food,2,positive,positive,negative
+We walked in on a Wednesday night and were seated promptly .,seated,2,positive,positive,negative
+The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .,dishes,2,positive,neutral,positive
+"His wife Tanya , the hostess , completes the comforting atmosphere by being delightfully warm and gracious .",atmosphere,2,positive,positive,positive
+The service is outstanding and my crab-cake eggs benedict could not have been better .,service,2,positive,positive,positive
+We had the pot-stickers which were great and a tempura dish that was great .,pot-stickers,2,positive,positive,neutral
+It 's a great place to pick up a cheap lunch or dinner .,dinner,2,positive,neutral,positive
+"My husband said the portions were very small , but if my main course was good to eat the portion would 've been fine for me .",portion,2,positive,negative,neutral
+I 've never had bad service and the fish is fresh and delicious .,service,2,positive,positive,neutral
+The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef ( usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt ) .,fish,2,positive,positive,positive
+"Everything is always cooked to perfection , the service is excellent , the decor cool and understated .",decor,2,positive,positive,positive
+The only thing the waiters do n't do for you is wipe your chin when you leave .,waiters,2,positive,neutral,neutral
+"Nice ambiance , nice little bar , good bartender , Francois , and good service .",ambiance,2,positive,positive,positive
+"It 's really also the service , is good and the waiters are friendly .",waiters,2,positive,positive,negative
+"my picks : Guizhou chicken , fish with hot bean source , fish fillet in spicy source ( special menu ) .",", fish fillet in spicy source",2,positive,positive,negative
+I 've been coming here as a child and always come back for the taste .,taste,2,positive,positive,neutral
+I am happy i did the food was awsome .,food,2,positive,positive,positive
+From the complimentary chef app of a delicate butternut squash ravioli in a delicious truffle sauce to an amazing buttery and tender langostine entree to a dessert that I ca n't remember because of the fabulous Cakebread Cabernet we were drinking -- the whole evening was amazing .,delicate butternut squash ravioli in a delicious truffle sauce,2,positive,positive,neutral
+"However , go for the ambience , and consider the food just a companion for a trip across the world !",ambience,2,positive,neutral,positive
+The Prix Fixe menu is worth every penny and you get more than enough ( both in quantity AND quality ) .,Prix Fixe menu,2,positive,positive,positive
+"The food is consistently wonderful - I 've been coming here for years , and the owner has always been accomodating and friendly .",owner,2,positive,positive,negative
+"night without a reservation , we had to wait at the bar for a little while , but the manager was so nice and made our wait a great experience .",wait,2,positive,positive,positive

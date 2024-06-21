@@ -12,8 +12,20 @@ Language Options:  [中文](#中文说明) | [English](#english-version)
 - 作者：Hongling Xu, Qianlong Wang, Yice Zhang, Min Yang, Xi Zeng, Bing Qin, Ruifeng Xu*
 - 会议：ACL-2024 Findings（短文）
 
-#### 注意事项
-- 代码和数据将于2024年6月20日前上传至本仓库。
+#### 运行说明
+- 各任务数据集位于dataset中（可以参考./dataset/sampling_example.ipynb完成候选样例采样）
+- 获取候选样本的先验预测结果
+    ```bash
+    bash scripts/run_pre.sh
+    ```
+- 在候选样本中进行样例检索
+    ```bash
+    bash scripts/run_sim.sh
+    ```
+- 推理
+    ```bash
+    bash scripts/run_ficl.sh
+    ```
 
 
 
@@ -29,6 +41,19 @@ This repository open-sources the code for the following paper:
 - Authors: Hongling Xu, Qianlong Wang, Yice Zhang, Min Yang, Xi Zeng, Bing Qin, Ruifeng Xu*
 - Conference: ACL-2024 Findings (short)
 
-### Note
-- Code and data will be uploaded to this repository by June 20, 2024.
+### Instructions
+
+- The datasets for each task are located in the `dataset` folder (refer to `./dataset/sampling_example.ipynb` for completing candidate example sampling).
+- Obtain the prior prediction results for the candidate samples:
+    ```bash
+    bash scripts/run_pre.sh
+    ```
+- Perform in-context example retrieval among the candidate samples:
+    ```bash
+    bash scripts/run_sim.sh
+    ```
+- Inference:
+    ```bash
+    bash scripts/run_ficl.sh
+    ```
 
